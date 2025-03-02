@@ -21,7 +21,8 @@ IMGUI 就是半透明的黑色窗口。
 1. 安装 IMGUITranslationLoader
 [https://github.com/ghorsington/IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader)
 
-下载 `IMGUITranslationLoader_xxxxx.7z
+下载 `IMGUITranslationLoader_xxxxx.7z`
+
 复制 `IMGUITranslationLoader.Managed.dll` 和 `IMGUITranslationLoader.Sybaris.Patcher.dll` 到 `COM3D2\Sybaris` 文件夹。
 
 ![图片](https://github.com/user-attachments/assets/5f91581c-30e8-4a6e-9fb7-7112fe33a9cf)
