@@ -62,6 +62,9 @@ IMGUI 就是半透明的黑色窗口。
 遇到一样的插件和一样的字符就会翻译。
 或者开全局模式。
 
+### COM3D2.5 3.40.0+ (unity 2022)能用吗
+能，但 IMGUITranslationLoader 需要使用此版本 [https://github.com/krypto5863/IMGUITranslationLoader](https://github.com/krypto5863/IMGUITranslationLoader)
+其他同 2.5 说明
 
 ### XUnity.AutoTranslator 共存
 注意不要用 `turtle_formatter.exe` 处理，否则会被删掉。
