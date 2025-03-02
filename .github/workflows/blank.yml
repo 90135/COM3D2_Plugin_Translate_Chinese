@@ -9,6 +9,8 @@ jobs:
   release:
     name: Create Release
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 赋予 GitHub Token 写入 Release 权限
 
     steps:
       - name: 检出仓库代码
