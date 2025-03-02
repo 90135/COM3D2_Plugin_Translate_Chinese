@@ -1,0 +1,351 @@
+﻿Effects	效果滤镜
+Environment	环境设定
+Model	模型设置
+Save / Load	保存/读取
+Language		语言
+Name	名称
+Save	保存
+Load Targets	加载存档
+Lights	灯光
+Models	模型
+Camera	相机
+Misc	其他
+Maid Hide	女仆遮罩
+Color Curves	颜色曲线
+Advanced	高级设置
+Saturation	饱和度
+Red Channel	红色通道
+Green Channel	绿色通道
+Blue Channel	蓝色通道
+Start	开始
+End	结束
+Reverse	反向
+Sepia	深褐色滤镜
+Grayscale	黑白滤镜
+Contrast	轮廓对比
+Intensity	强度
+threshold	阈值
+Blur Spread	模糊扩散
+Edge Detect	轮廓检测
+Mode	模式选择
+Luminance Threshold	明度阈值
+Sample Distance	采样距离
+Edges Exponent	边缘指数
+Edges Only	仅边缘显示
+Edges Only Background	仅边缘显示下的背景颜色
+R	红
+G	绿
+B	蓝
+Crease	边缘强调
+Softness	柔和
+Spread	扩散
+Antialiasing	抗锯齿
+Technique	抗锯齿技术
+Edge Threshold Min	边缘阈值最小值
+Edge Threshold	边缘阈值
+Noise And Grain	噪波和颗粒
+DX11 Grain	DX11颗粒
+Monochrome	单色
+Intensity Multiplier	强度倍数
+Black Intensity	黑色强度
+White Intensity	白色强度
+Mid Grey	中灰色
+Red Tiling	红色平铺
+Green Tiling	绿色平铺
+Blue Tiling	蓝色平铺
+Monochrome Tiling	单色平铺
+Obscurance	环境光遮蔽
+Tint	色调
+Radius	半径
+Sample Count	采样个数
+Selective Color Correction	调整选定颜色
+Red Channel Depth	红色通道深度
+Green Channel Depth	绿色通道深度
+Blue Channel Depth	蓝色通道深度
+All Settings	详细设置
+Camera Rotation X	相机沿X轴旋转
+Camera Rotation Y	相机沿Y轴旋转
+Camera Rotation Z	相机沿Z轴旋转
+Camera Distance	相机距离
+Camera FOV	相机视野
+Maid Select	选择女仆
+Reload	重新加载
+Adjust TargetPosition	调整位置
+X Axis	X轴
+Y Axis	Y轴
+Z Axis	Z轴
+Dance Mode	舞蹈模式
+Save Camera	保存相机
+Restore Camera	读取相机
+Reset Camera	重置相机
+Background	背景
+Add Light	添加灯光
+Type	类型
+Reset	重置
+Enable	启用
+Reset Pos	位置复位
+Drag	移动
+Delete	删除
+Rotation X	旋转X轴
+Rotation Y	旋转Y轴
+Rotation Z	旋转Z轴
+Color	颜色
+Shadow Type	阴影类型
+Main Light	主光源
+Shadow Strength	阴影强度
+Shadow Bias	阴影偏移
+Shadow Normal Bias	阴影法向偏移
+Add LightShaft	添加光束
+Copy	复制
+Show Panel	显示面板
+Range	范围
+Brightness	亮度
+Spotlight Angle	光束角度
+Spot Near	起点
+Spot Far	终点
+Brightness Colored
+Depth Threshold	深度阈值
+softKnee	柔和
+radius	半径
+intensity	强度
+highQuality	高质量
+antiFlicker	抗闪烁
+Maid Mask	女仆遮罩
+TransparentMode	透明模式
+Use DirtTexture	使用污垢纹理
+Load	读取
+DirtTexture	污垢纹理
+dirtIntensity	污垢纹理强度
+Depth Of Field	景深
+Visualize Focus	可视焦点
+Focal Transform	人物对焦
+Focal Length	焦距
+Focal Size	焦点尺寸
+Aperature	光圈
+Blur Sample Count	模糊品质
+Max Blur Size	最大模糊数
+High Resolution	高分辨率
+Near Blur		边缘模糊
+Foreground Overlap	前景重叠
+DepthOfField (Cinematic)	景深（Cinematic）
+Bokeh Scale	散景比例
+Bokeh Intensity	散景强度
+Bokeh Threshhold	散景阈值
+visualizeFocus	可视焦点
+tweakMode	调整模式
+apertureShape	光圈形状	
+Bokeh	散景
+f-Number	光圈值
+Kernel Size	内核尺寸
+Use Camera FOV	使用相机视野
+focalrange	焦距
+Letter Box	黑边
+Vertical	垂直
+Width	宽度
+Center Y	Y轴中心点
+Center X	X轴中心点
+Smoothness	平滑
+Tonemapping/ColorGrading	色调映射/颜色分级
+EyeAdaptation	眼部适应
+Tonemapping	色调映射
+ColorGrading	颜色分级
+Exposure	曝光
+BlackIn	黑色强度
+WhiteIn	白色强度
+WhiteLevel	白电平
+tonemapper	色调映射器
+Curve	曲线
+Hue	色相
+Value	明度
+Gain	增益
+Gamma	伽马
+TemperatureShift	色温
+Vibrance	自然饱和度
+ChannelMixer	通道混合器
+Curves	曲线
+MasterCurve	总曲线
+RedCurve	红色曲线
+GreenCurve	绿色曲线
+BlueCurve	蓝色曲线
+Z Curve	Z轴曲线
+UseDithering	使用抖动算法
+Precision	精度
+Isoline	等值线
+Line Color	等值线颜色
+Luminance Blending	辉度混合
+Background Color	背景颜色
+Axis X	X轴
+Axis Y	Y轴
+Axis Z	Z轴
+Interval	间隔
+Scroll Direction X	滚动方向X
+Scroll Direction Y	滚动方向Y
+Scroll Direction Z	滚动方向Z
+Scroll Speed	滚动速度
+Fisheye	鱼眼镜头
+Strength X	X轴强度
+Strength Y	Y轴强度
+Color Correction LUT	颜色修正LUT
+LUT Texture	LUT纹理
+Contribution	强度
+Digital Glitch	数字故障
+AnalogGlitch	模拟故障
+Scan Line Jitter	扫描线抖动
+Vertical Jump	垂直跳动
+Horizontal Shake	横向摇晃
+Color Drift	颜色偏差
+MedianFilter	中值滤波
+FilterQuality	滤波质量
+filteringQuality	过滤质量
+Motion Blur	动态模糊
+Extra Blur	额外模糊
+Blur Amount	模糊强度
+Tilt Shift HDR	移轴模式HDR
+Quality	质量
+Blur Area	模糊区域
+Downsample	降低采样
+Sun Shafts	阳光射线特效
+Resolution	分辨率
+Blend	混合模式
+Use Depth Texture	使用深度纹理
+Max Radius	最大半径
+Blur Radius	模糊半径
+Radial Blur Iterations	径向模糊次数
+Use Skybox Alpha	使用天空盒Alpha
+Ramp	渐变
+color1	颜色1
+color2	颜色2
+Threshold	阈值
+Sensitivity Normals	灵敏法线
+Sensitivity Depth	灵敏深度
+Show Generated Normals	显示法线
+Offset Scale	偏移比例
+Sharp	锐化
+Headdress	头饰
+Top	上衣
+Bottom	下装
+One Piece	连衣裙
+Swimsuit	泳装
+Bra	文胸
+Panties	内裤
+Socks	袜子
+Shoes	鞋子
+Hair Acc.	前发
+Glasses	眼镜
+Eye Mask	眼罩
+Nose	鼻
+Ears	耳
+Gloves	手套
+Necklace	项链
+Choker	项圈
+Ribbon	丝带
+Nipples	乳头
+Arms	胳膊
+Belly	肚脐
+Ankles	脚腕
+Back	背后
+Tail	尾巴
+Genitals	小穴
+Hand	手
+Hat	帽子
+Body U	上半身
+Body L	下半身
+Vaginal	前穴
+Anal	后穴
+Maid Item	女仆道具
+MyRoom Object	房间道具
+Pan	移动
+Rotation	旋转
+Scale	缩放
+Scale All Axes	缩放所有轴
+Shadow	阴影
+Cast Shadow ON	开启阴影
+Cast Shadow OFF	关闭阴影
+Lens Aberrations	透镜像差
+Distortion	扭曲
+Amount	扭曲程度
+Amount X	向X轴扭曲
+Amount Y		向Y轴扭曲
+Vignette	渐晕
+Cente rX	X轴中心点
+Roundness	圆滑
+Blur	模糊
+Desaturate	饱和度减弱
+Chromatic Aberration	色差
+Focus Distance	焦距
+useARGBHalf	使用ARGBHalf
+Visualize	可视化
+precision	精度
+Shadows	阴影
+Midtones	中间色调
+Highlights	高光
+angle	角度
+opacity	透明度
+Blend Mode	选择模式
+Downsampling	下取样
+Ambient Only	仅环境
+Color Selection Type	颜色类型选择
+Gradient First Color	渐变色-前
+Gradient Last Color	渐变色-后
+End Distance	结束距离
+Height Fog	高度雾
+Base Height	基础高度
+Base Density	基础密度
+Density Falloff	密度衰减
+Fall-Off	衰减
+Distortion Frequency	失真度
+Distortion Amount	失真数量
+Modulation Mode	调制方式
+Modulation Axis X	调制X轴
+Modulation Axis Y	调制Y轴
+Modulation Axis Z	调制Z轴
+Modulation Frequency	调制频率
+Modulation Speed	调制速度
+Modulation Exponent	调制指数
+CullingMask	选择性的渲染部分场景
+Add Model	添加模型
+stretch	伸展
+Streak Cross	交叉条纹
+Streak Vertical	垂直条纹
+NearPlane	近平面
+NearFalloff	近衰减
+NearBlurRadius	近模糊半径
+FarPlane	远平面
+FarFalloff	远衰减
+FarBlurRadius	远模糊半径
+useBokehTexture	使用散景纹理
+Bokeh Texture	散景纹理
+bokehScale	散景比例
+bokehIntensity	散景强度
+bokehThreshold	散景阈值
+bokehSpawnHeuristic	散景光斑产生条件
+Threshhold	阈值
+Threshhold Color	阈值色彩
+Blur Iterations	模糊迭代
+Lensflare Intensity	镜头光晕强度
+Lensflare Threshold	镜头光晕阈值
+Lensflare Rotation	镜头光晕旋转
+Hollywood Blur Stretch Width	好莱坞模糊拉伸宽度
+Hollywood Blur Iterations	好莱坞模糊迭代
+Lensflare Saturation	镜头光晕饱和度
+Lensflare Mode	镜头光晕模式
+MiddleGrey	场景平均灰度
+Min	最小
+Max	最大
+StylisticFog	雾气
+Texture	纹理
+Flare Color A	镜头光晕颜色A
+Flare Color B	镜头光晕颜色B
+Flare Color C	镜头光晕颜色C
+Flare Color D	镜头光晕颜色D
+Fall-Off 	衰减
+RadiusBasePixel	基础半径像素
+Distance Fog	远程雾
+Spawn Heuristic	光斑产生条件
+BlackOut	加暗
+WhiteOut	加亮
+apertureOrientation	光圈方向
+Model Layer Mode
+Colored	颜色调整
+Brightness Colored	颜色亮度
+Color Balance	颜色平衡

@@ -1,0 +1,1634 @@
+Call	调出
+Pose	姿势
+Face	表情
+Env	环境
+Props	道具
+Horizontal Row	平行一列
+OK
+Clear	全部清除
+Active Only	
+Settings	设置
+Edit	可调整
+IK	IK（反向动力学）
+Release	解除IK
+Bone	操作点
+F-Look	脸朝向锁定
+Save Pose	保存姿势
+Look X	脸朝向X轴调整
+Look Y	脸朝向Y轴调整
+Bind	朝向镜头
+Eye	眼
+Head	脸
+SM Restraints	SM道具
+Arm Binder	手臂环
+Attach	装备
+Detach	取下
+Detach All	全部取下
+Detailed Clothing	详细调整衣服
+All	全穿
+Underwear	只穿内衣
+Nude	全裸
+Top	上衣
+Bottoms	下装
+Bra	胸罩
+Panties	内裤
+Headwear	头饰
+Eyewear	眼镜
+Arms	手部
+Gloves	手套
+Back	背后
+Socks	袜子
+Shoes	鞋子
+Body	肉体
+Curl Front	撩起前裙
+Curl Rear		撩起后裙
+Shift	移开内裤
+Hand Preset	手势预设
+Save Hand	保存手势
+Hand Presets	手势存档
+No Hand Presets	无手势存档
+Right	右手
+Left	左手
+Gravity Control	重力将影响该女仆的
+Hair	头发
+Skirt	裙子
+Global	全局
+Copy IK	复制IK
+No Maids	无女仆
+Copy	复制
+Flip IK	IK翻转
+Flip	翻转
+General	一般
+Eye Shut	闭眼
+Eye Smile	笑眼
+Glare
+Eyes Widen	睁大眼睛
+Wink Smile
+Wink Shut
+Highlight
+Pupil Size
+Brows Angle
+Brows Sad
+Brows Up
+Brows Angry 1
+Brows Angry 2
+Mouth Open 1
+Mouth Open 2
+Mouth Narrow
+Mouth Widen
+Smile
+Frown
+Pout
+Grin
+Tongue Out
+Tongue Up
+Tongue Base
+Blush
+Shade
+Nose Up
+Tears
+Drool
+Teeth
+Cry 1
+Cry 2
+Cry 3
+Blush 1
+Blush 2
+Blush 3
+Save
+Manage Scenes
+Theater
+Movement Cube
+Small
+Maid
+BG
+Camera
+2
+3
+4
+5
+Z Rotation
+|
+FOV
+Lights
+Main
++
+Del
+Spot
+Point
+Hide BG
+Light X
+Light Y
+Brightness
+Shadow
+Red
+Green
+Blue
+Reset
+Properties
+Position
+Effects
+
+90135翻译-于GITHUB免费发布
+https://github.com/90135/COM3D2_Plugin_Translate_Chinese
+
+Bloom
+DOF
+Blur
+Fog
+On
+Reset Effect
+Intensity
+HDR
+Sepia
+MyRoom
+Mods
+Furniture
+Kuudere Chair
+Manage Props
+No Props
+Cube
+Gizmo
+Delete
+Attach Point
+Keep World Position
+Neck
+Shoulder R
+Spine 1
+Shoulder L
+Elbow R
+Spine 2
+Elbow L
+Mune R
+Spine 3
+Mune L
+Hand R
+Spine 4
+Hand L
+Thigh R
+Pelvis
+Thigh L
+Knee R
+Knee L
+Foot R
+Foot L
+Controls
+Activate MPS
+F6
+×
+Screenshot
+S
+Hide/Show UI
+Tab
+Message Box
+M
+Maids
+Undressing
+H
+Camera Layer
+Q
+Reset Camera
+R
+Save Camera
+Load Camera
+A
+Drag Handles
+Select
+D
+Move
+Z
+Rotate
+X
+Scale
+C
+Show Fingers
+Space
+Scene Management
+Quick Save
+Quick Load
+Open Scene Manager
+F8
+Reload Translation
+Reload Presets
+Close
+
+
+
+
+
+
+
+
+エロ通常				エロ正常 
+エロ通常１			エロ正常１
+エロ通常２			エロ正常２
+エロ通常３			エロ正常３
+エロ興奮				エロ兴奋
+エロ興奮０			エロ兴奋０
+エロ興奮１			エロ兴奋１
+エロ興奮２			エロ兴奋２
+エロ興奮３			エロ兴奋３
+エロ好感				エロ好感
+エロ好感１			エロ好感１
+エロ好感２			エロ好感２
+エロ好感３			エロ好感３
+エロ期待				エロ期待 
+エロ羞恥				エロ羞耻
+エロ羞恥１			エロ羞耻１
+エロ羞恥２			エロ羞恥２
+エロ羞恥３			エロ羞恥３ 
+エロ緊張				エロ紧张
+エロ我慢				エロ忍耐 
+エロ我慢１			エロ忍耐１
+エロ我慢２			エロ忍耐２
+エロ我慢３			エロ忍耐３
+エロ嫌悪				エロ厌恶
+エロ嫌悪１			エロ厌恶１
+エロ痛み				エロ疼痛 
+エロ痛み１			エロ疼痛１
+エロ痛み２			エロ疼痛２
+エロ痛み３			エロ疼痛３
+エロ痛み我慢			エロ忍耐疼痛 
+エロ痛み我慢１			エロ忍耐疼痛１
+エロ痛み我慢２			エロ忍耐疼痛２
+エロ痛み我慢３			エロ忍耐疼痛３
+エロ怯え				エロ恐惧
+エロメソ泣き			エロ抽泣
+あーん				哭泣
+エロ舌責				エロ舌責
+エロ舌責快楽			エロ舌責快乐
+エロ舌責嫌悪			エロ舌責厌恶
+エロ舐め通常			エロ舔舐正常
+エロ舐め通常２			エロ舔舐正常２
+エロ舐め愛情			エロ舔舐爱情
+エロ舐め愛情２			エロ舔舐爱情２
+エロ舐め快楽			エロ舔舐快乐
+エロ舐め快楽２			エロ舔舐快乐２
+エロ舐め嫌悪			エロ舔舐厌恶
+エロ舐め嫌悪２			エロ舔舐厌恶２
+エロフェラ通常			エロ口交正常
+エロフェラ愛情			エロ口交爱情
+エロフェラ快楽			エロ口交快乐
+エロフェラ嫌悪			エロ口交厌恶
+エロ絶頂				エロ高潮
+エロ放心				エロ放松
+閉じ舐め通常			闭眼舔舐正常
+閉じ舐め通常２			闭眼舔舐正常２
+閉じ舐め愛情			闭眼舔舐爱情
+閉じ舐め愛情２			闭眼舔舐爱情２
+閉じ舐め快楽			闭眼舔舐快乐
+閉じ舐め快楽２			闭眼舔舐快乐２
+閉じ舐め嫌悪			闭眼舔舐厌恶
+閉じ舐め嫌悪２			闭眼舔舐厌恶２
+閉じフェラ通常			闭眼口交正常
+閉じフェラ愛情			闭眼口交爱情
+閉じフェラ快楽			闭眼口交快乐
+閉じフェラ嫌悪			闭眼口交厌恶
+通常射精後１			正常射精后１
+通常射精後２			正常射精后２
+絶頂射精後１			高潮射精后１
+絶頂射精後２			高潮射精后２
+興奮射精後１			兴奋射精后１
+興奮射精後２			兴奋射精后２
+余韻弱				余韵微弱
+発情				发情
+接吻				接吻
+玉涙:OFF				圆泪:OFF
+涙なし				没有眼泪
+赤面:OFF				脸红:OFF
+頬なし				没有脸红
+よだれ:OFF			口水:OFF		
+ショック:OFF			震动:OFF
+玉涙:ON				圆泪:ON
+涙１				眼泪1
+涙２				眼泪2
+赤面:ON				脸红:ON
+涙３				眼泪3
+閉じ目				闭眼
+目口閉じ				闭眼闭嘴	
+通常				正常
+怒り				生气
+笑顔				笑脸
+微笑み				微笑
+悲しみ				悲伤
+悲しみ２				悲伤２
+泣き				哭泣
+きょとん				凝视
+ジト目				蔑视
+あーん				大哭
+ためいき				叹息
+ドヤ顔				骄傲脸
+にっこり				微笑	
+びっくり				惊吓	
+ぷんすか				嘟嘴
+まぶたギュ			眼睛抽搐
+むー				赌气
+引きつり笑顔			笑抽
+疑問				疑问
+苦笑い				苦笑
+思案伏せ目			沉思
+少し怒り				有点生气
+誘惑				诱惑
+優しさ				温柔
+居眠り安眠			平静瞌睡
+目を見開いて			睁大眼睛
+痛みで目を見開いて			痛苦得睁开眼睛
+口開け				张嘴
+恥ずかしい			难为情
+追加よだれ			追加口水
+よだれ				口水
+照れ				害羞
+照れ叫び				害羞呼喊
+ウインク照れ			害羞眼神
+にっこり照れ			害羞微笑
+ダンス目つむり			舞蹈翻白眼
+ダンスあくび			舞蹈打哈欠
+ダンスびっくり			舞蹈惊吓
+ダンス微笑み			舞蹈微笑
+ダンス目あけ			舞蹈睁眼
+ダンス目とじ			舞蹈闭眼	
+ダンスウインク			舞蹈眨眼
+ダンスキス			舞蹈之吻	
+ダンスジト目			舞蹈轻蔑
+ダンス困り顔			舞蹈愁眉苦脸	
+ダンス真剣			舞蹈认真
+ダンス憂い			舞蹈忧愁
+ダンス誘惑			舞蹈诱惑
+頬０	᠎頬０
+頬１	᠎頬１
+頬２	᠎頬２
+頬３	᠎頬３
+涙０	᠎泪０
+涙１	᠎泪１
+涙２	᠎泪２
+涙３	᠎泪３
+頬０涙０	頬０泪０
+頬０涙１	᠎頬０泪１
+頬０涙２	頬０泪２
+頬０涙３	᠎頬０泪３
+頬１涙０	頬１泪０
+頬１涙１	᠎頬１泪１
+頬１涙２	頬１泪２
+頬１涙３	᠎頬１泪３
+頬２涙０	頬２泪０
+頬２涙１	᠎頬２泪１
+頬２涙２	頬２泪２
+頬２涙３	᠎頬２泪３
+頬３涙０	頬３泪０
+頬３涙１	᠎頬３泪１
+頬３涙２	頬１泪２
+頬３涙３	᠎頬３泪３
+頬０涙０よだれ	頬０泪０口水
+頬０涙１よだれ	᠎頬０泪１口水
+頬０涙２よだれ	頬０泪２口水
+頬０涙３よだれ	᠎頬０泪３口水
+頬１涙０よだれ	頬１泪０口水
+頬１涙１よだれ	᠎頬１泪１口水
+頬１涙２よだれ	頬１泪２口水
+頬１涙３よだれ	᠎頬１泪３口水
+頬２涙０よだれ	頬２泪０口水
+頬２涙１よだれ	᠎頬２泪１口水
+頬２涙２よだれ	頬２泪２口水
+頬２涙３よだれ	᠎頬２泪３口水
+頬３涙０よだれ	頬３泪０口水
+頬３涙１よだれ	᠎頬３泪１口水
+頬３涙２よだれ	頬１泪２口水
+頬３涙３よだれ	᠎頬３泪３口水
+
+
+頭			头
+髪			头发
+身体			身体
+服装			服装
+アクセサリ		配饰
+セット			套装
+プリセット		预设
+全て			全部
+選択中			选择中
+設定			设定
+顔			脸
+眉			眉毛
+目			眼睛
+目ハイライト		眼睛高光
+ほくろ			痣
+唇			嘴唇
+歯			牙齿
+フィルタ：		过滤器：
+お気に入り		收藏夹
+帽子			帽子
+ヘッドドレス		头饰
+トップス			上装
+ボトムス			下装
+ワンピース		连衣裙
+水着			泳装
+ブラジャー		胸罩
+パンツ			内裤
+靴下			袜子
+靴			鞋子
+服 / 身体			衣服/身体
+服			衣服
+体			身体
+メイド服			女仆装
+コスチューム		服装
+下着			内衣
+肌			皮肤
+前髪			前发
+メガネ			眼镜
+アイマスク		眼罩
+鼻			鼻子
+耳			耳朵
+手袋			手套
+ネックレス		项链
+チョーカー		项圈
+リボン			丝带
+乳首　			乳头
+腕			手腕
+へそ			肚脐
+足首			脚踝
+背中			后背
+しっぽ			尾巴
+前穴			小穴
+肌			皮肤
+乳首			乳头
+タトゥー			纹身
+アンダーヘア		阴毛
+ボディ			身体
+前髪			前发
+後髪			后发
+横髪			侧发
+エクステ髪		假发
+エクステ毛		假发
+アホ毛			呆毛
+アクセ：前髪		配饰：前发
+アクセ：左耳		配饰：左耳
+アクセ：右耳		配饰：右耳
+アクセ：ネックレス		配饰：项链
+アクセ：チョーカー		配饰：项圈
+アクセ：左リボン		配饰：左侧丝带
+アクセ：右リボン		配饰：右侧丝带
+アクセ：腕		配饰：手腕
+アクセ：前穴		配饰：前穴
+アクセ：手袋		配饰：手套
+アクセ：左耳		配饰：左耳
+アクセ：右耳		配饰：右耳
+アクセ：腕		配饰：手腕
+歯			牙齿
+アンダーヘア		阴毛
+ヘッドドレス		头饰
+水着			泳装
+アクセ：前髪：左		配饰：前髪：左	
+アクセ：前髪：右		配饰：前髪：右
+アクセ：メガネ		配饰：眼镜
+アクセ：アイマスク		配饰：眼罩
+アクセ：手袋		配饰：手套
+アクセ：鼻		配饰：鼻子
+アクセ：左乳首		配饰：左乳头
+アクセ：右乳首		配饰：右乳头
+アクセ：へそ		配饰：肚脐
+アクセ：足首		配饰：脚踝
+アクセ：背中		配饰：后背
+アクセ：しっぽ		配饰：尾巴
+精液：中			精液：中
+精液：腹			精液：腹
+精液：顔			精液：顔
+精液：胸			精液：胸
+精液：尻			精液：臀
+精液：腕			精液：手
+精液：足			精液：脚
+手持アイテム：左		手持物品：左
+手持アイテム：右		手持物品：右
+拘束具：上		拘束具：上
+拘束具：下		拘束具：上
+アナルバイブ		肛门振动棒
+バイブ			振动棒
+チ○コ			鸡鸡
+ピンクバイブ		粉红色振动棒
+黒バイブ			黑色振动棒
+大黒バイブ		大黑色振动棒
+アナルバイブ		肛门振动棒
+
+body			身体
+head			头
+eye			眼镜
+all			全部
+wear			上衣
+skirt			裙子
+onepiece			连衣裙
+mizugi			泳装
+panz			内裤
+bra			胸罩
+stkg			袜子
+shoes			鞋子
+headset			头饰
+glove			手套
+hairf			前发
+hairr			后发
+hairs			侧发
+hairt			假发
+hairaho			呆毛
+acchead			头配饰
+acchana			鼻配饰
+accha			牙配饰
+acckami_1_		配饰头发_1_
+acckami_2_		配饰头发_2_
+acckami_3_		配饰头发_3_
+accmimir			右耳配饰
+accmimil			左耳配饰
+acckamisubr		配饰发带右
+acckamisubl		配饰发带左
+acckamisub		配饰发带
+acckami			头发配饰
+accnip			乳头配饰
+accnipr			右乳头配饰
+accnipl			左乳头配饰
+handitemr		右手物品
+handiteml		左手物品
+acckubi			配饰项链
+acckubiwa		配饰项圈
+accheso			肚脐配饰
+accude			手腕配饰
+accashi			脚配饰
+accsenaka		背部配饰
+accshippo		配饰尾巴
+accanl			屁眼配饰
+accvag			小穴配饰
+kubiwa			项圈
+megane			眼镜
+accxxx			阴蒂配饰
+chikubi			乳头
+chikubicolor		乳头颜色
+chinko			鸡鸡
+acchat			配饰帽子
+kousoku_upper		拘束具_上
+kousoku_lower		拘束具_下
+underhair			底发
+seieki			精液
+seieki_naka		精液_中
+seieki_hara		精液_腹
+seieki_face		精液_顔
+seieki_mune		精液_胸
+seieki_hip			精液_臀
+seieki_ude		精液_手
+seieki_ashi		精液_脚
+moza			马赛克
+
+Body			身体
+Head			头
+Eye			眼镜
+All			全部
+Wear			上衣
+Skirt			裙子
+Onepiece			连衣裙
+Mizugi			泳装
+Panz			内裤
+Bra			胸罩
+Stkg			袜子
+Shoes			鞋子
+Headset			头饰
+Glove			手套
+hairF			前发
+hairR			后发	
+hairS			侧发
+hairT			假发
+hairAho			呆毛
+accHead			头配饰
+accHana			鼻配饰
+accHa			牙配饰
+accKami_1_		配饰头发_1_
+accKami_2_		配饰头发_2_
+accKami_3_		配饰头发_3_
+accMiMiR			右耳配饰
+accMiMiL			左耳配饰
+accKami			头发配饰
+accKamiSubR		配饰发带右
+accKamiSubL		配饰发带左
+accKamiSub		配饰发带
+accNipR			右乳头
+accNipL			左乳头配饰
+HandItemR		右手物品
+HandItemL		左手物品
+accKubi			配饰项链
+accKubiwa		配饰项圈
+accHeso			肚脐配饰
+accUde			手腕配饰
+accAshi			脚配饰
+accSenaka		背部配饰
+accShippo		配饰尾巴
+accAnl			屁眼配饰
+accVag			小穴配饰
+kubiwa			项圈
+megane			眼镜
+accXXX			阴蒂配饰
+chikubi			乳头
+chinko			鸡鸡
+accHat			配饰帽子
+kousoku_upper		拘束具_上
+kousoku_lower		拘束具_下
+underhair			底发
+seieki			精液
+seieki_naka		精液_中
+seieki_hara		精液_腹
+seieki_face		精液_顔
+seieki_mune		精液_胸
+seieki_hip			精液_臀
+seieki_ude		精液_手
+seieki_ashi		精液_脚
+moza			马赛克
+
+====其他增补摄影物品====
+====场景名不能翻译====
+Kuudere Chair	᠎Kuudere主席
+Manage Props	᠎管理道具
+No Props	᠎无道具
+Junshin Chair	᠎Junshin椅子
+Muku Chair	᠎Muku椅子
+Tsundere Chair	᠎Tsundere椅子
+Fluffy Chair	᠎蓬松的椅子
+Marigolds	᠎万寿菊
+Simple Table	᠎简单表格
+Small Sofa	᠎小沙发
+Wide Sofa	᠎宽沙发
+Dance Sofa	᠎舞蹈沙发
+Long Sofa	᠎长沙发
+Empty Wine Glass	᠎空酒杯
+Dogu	᠎小道具
+Pot (Filled)	᠎锅（已填充）
+Watering Can	᠎浇水罐
+Table with Flowers	᠎带鲜花的桌子
+Square Stool	᠎方形凳子
+Cutting Board	᠎切割板
+Mic	᠎麦克风
+Mic Base	᠎麦克风底座
+Koala Mic	᠎考拉麦克风
+Fantasy Axe (Black)	᠎梦幻斧头（黑色）
+Fantasy Axe (Gold)	᠎幻斧（金色）
+Fantasy Axe (Silver)	᠎梦幻斧头（银色）
+Fantasy Axe (White)	᠎梦幻斧头（白色）
+Magic Staff (Black)	᠎魔法杖（黑色）
+Magic Staff (Gold)	᠎魔法杖（金色）
+Magic Staff (Silver)	᠎魔法杖（银色）
+Magic Staff (White	᠎魔法杖（白色
+Spell Tome (Black)	᠎拼写Tome（黑色）
+Spell Tome (Brown)	᠎拼写Tome（棕色）
+Spell Tome (Purple)	᠎拼写Tome（紫色）
+Spell Tome (White)	᠎拼写Tome（白色）
+AR Window	᠎AR窗口
+Water Balloon (Yellow)	᠎水气球（黄色）
+Water Balloon (Blue)	᠎水气球（蓝色）
+Water Balloon (Orange)	᠎水气球（橙色）
+Water Balloon (Pink)	᠎水气球（粉色）
+Taiko Bachi	᠎泰科·巴奇
+Festival Fan (Red)	᠎节日风扇（红色）
+Festival Fan (Blue)	᠎节日风扇（蓝色）
+Crepe Stall	᠎Crepe摊位
+Crepe Stall (Night)	᠎Crepe摊位（夜间）
+Tatami Mat	᠎榻榻米垫
+Tatami Mat (Night)	᠎榻榻米垫（夜间）
+Lottery Stall	᠎彩票摊位
+Lottery Stall (Night)	᠎彩票摊位（晚上）
+French Fries Stall	᠎法式炸薯条摊
+French Fries Stall (Night)	᠎法式炸薯条摊（晚上）
+Candy Apple Stall	᠎糖果苹果摊位
+Candy Apple Stall (Night)	᠎糖果苹果摊位（晚上）
+Shooting Gallery	᠎拍摄画廊
+Shooting Gallery (Night)	᠎拍摄画廊（夜间）
+Takoyaki Stall	᠎Takoyaki摊位
+Takoyaki Stall (Night)	᠎Takoyaki摊位（夜间）
+Yakisoba Stall	᠎Yakisoba摊位
+Yakisoba Stall (Night)	᠎Yakisoba摊位（夜间）
+Vinyl Pool	᠎乙烯基水池
+Vinyl Pool (No Water)	᠎乙烯基水池（无水）
+Charcoal Grill	᠎木炭烤架
+Candle	᠎蜡烛
+Four Cards	᠎四张卡片
+Ace Card	᠎Ace卡
+Feather Duster	᠎羽毛除尘器
+Top Hat	᠎顶帽子
+Top Hat (Dove)	᠎顶帽（鸽子）
+Vive Controller	᠎Vive控制器
+Napkin	᠎餐巾
+Napkin (Folded)	᠎餐巾（折叠）
+Paper Bag	᠎纸袋
+Cardboard Box	᠎纸板箱
+Aquarium Sofa Bed	᠎水族馆沙发床
+Aquarium Sofa	᠎水族馆沙发
+Video Camera	᠎摄录像机
+Fishing Rod	᠎钓鱼杆
+odogu_xmastree	᠎odogu_xmastree树
+odogu_ballornament_blue	᠎odogu_合金_蓝色
+odogu_ballornament_gold	᠎odogu_合金_金属
+odogu_ballornament_green	᠎odogu_合金_绿色
+odogu_ballornament_pink	᠎odogu_合金_墨水
+odogu_ballornament_red	᠎odogu_合金_已
+odogu_ballornament_silver	᠎odogu_合金_银
+odogu_bell_silver	᠎奥多古_贝尔_西尔弗
+odogu_bell_gold	᠎odogu_电池_电池
+odogu_cotton	᠎odogu_棉
+odogu_star	᠎odogu_星
+odogu_starornament_gold	᠎odogu_仓库_仓库
+odogu_starornament_silver	᠎odogu_供应商_供应商
+odogu_xmaslight	᠎odogu_xmaslight公司
+odogu_xmasribbon_check	᠎odogu_xmasribbon_检查
+odogu_xmasribbon_red	᠎odogu_xmasribon_red
+odogu_hina	᠎奥多古希纳
+odogu_hina_2	᠎奥多古·希纳2
+odogu_hina_3	᠎奥多古·希纳3
+Notebook	᠎笔记本
+Stationery	᠎文具
+Reference Book	᠎参考书
+Empire\'s Manners Book	᠎帝国礼仪书
+EN to JP Dictionary	᠎EN到JP词典
+Marketing Book	᠎市场营销手册
+Recipe Book	᠎配方书
+Flower Arrangement Book	᠎插花书
+Pencil (Green)	᠎铅笔（绿色）
+Pencil (Black)	᠎铅笔（黑色）
+Pencil (Red)	᠎铅笔（红色）
+Eraser (Blue)	᠎橡皮擦（蓝色）
+Eraser (Purple)	᠎橡皮擦（紫色）
+Eraser (Yellow)	᠎橡皮擦（黄色）
+Pen (Pink)	᠎钢笔（粉色）
+Pen (Black)	᠎钢笔（黑色）
+Pen (Brown)	᠎钢笔（棕色）
+Pen (Green)	᠎钢笔（绿色）
+Glue Stick	᠎胶粘棒
+Acqua Pazza	᠎阿夸广场
+Fine Dining	食物
+Birthday Cake	᠎生日蛋糕
+Vichyssoise	᠎维奇索斯
+Shortcake	᠎小蛋糕
+Egg Sandwiches	᠎鸡蛋三明治
+Mont Blanc	᠎勃朗峰
+Cake (Orange)	᠎蛋糕（橙色）
+Meal Platter	᠎餐盘
+Yakisoba	᠎炒面
+Ice Cream (Mint)	᠎冰淇淋（薄荷）
+Ice Cream (Strawberry)	᠎冰淇淋（草莓）
+Ice Cream (Vanilla)	᠎冰淇淋（香草）
+Steamed Bun	᠎馒头
+Steamed Buns	᠎馒头
+Tsukimi Dango	᠎Tsukimi Dango公司
+Manga Meat	᠎芒果肉
+Mug of Beer (Barrel)	᠎啤酒杯（桶）
+Chocolate Banana	᠎香蕉巧克力蛋糕
+Ikayaki	᠎墨鱼饼
+Candy Apple	᠎糖果苹果
+Grilled Mackerel Pike	᠎烤鲭鱼派克
+Grilled Corn	᠎烤玉米
+Watermelon	᠎西瓜
+Ramune	᠎弹珠汽水
+Wrapped Bento	᠎裹好的便当
+Glass of Champagne	᠎一杯香槟
+Chinese Food Platter	᠎中餐拼盘
+Stir Fry Platter	᠎清炒盘
+Stir Fry Platter (Eaten)	᠎清炒盘（食用）
+Acqua Pazza (Platter)	᠎阿夸广场（广场）
+Omurice (Platter)	᠎尿酸（普拉特）
+Steak	᠎牛排
+Sushi Platter	᠎寿司拼盘
+Crepe	᠎绉纱
+Hamburgers on Tray	᠎托盘上的汉堡
+Yakitori	᠎牦牛肉
+Valentine Chocolate	᠎情人节巧克力
+Kokanee Salmon	᠎Kokanee三文鱼
+Trout	᠎鳟鱼
+Grilled Trout	᠎烤鳟鱼
+Octopus	᠎章鱼
+Takoyaki	᠎章鱼烧
+Pork Miso Soup	᠎猪肉味噌汤
+odogu_ehomaki	᠎奥多古·霍马奇（odogu_ehomaki）
+odogu_white	᠎odogu_白色
+odogu_white_2	᠎odogu_命中2
+odogu_white_3	᠎odogu_命中3
+odogu_denkigai2021s_wataame	᠎odogu_denkigai2021s_wataame公司
+odogu_denkigai2021s_ramune	᠎odogu_denkigai2021s_ramune公司
+odogu_denkigai2021s_frankfurt	᠎odogu_denkigai2021s法兰克福
+odogu_opencafe_halloween_cupcake	᠎巧克力蛋糕
+odogu_x1_fruittart	᠎odogu_x1水果挞
+odogu_x1_sandwichesbasket	᠎odogu_x1三明治篮
+Odogu_x1plus_poissoncru	᠎Odogu_x1plus_poissoncru公司
+Odogu_x1plus_poiretmahimahi	᠎Odogu_x1plus_poiretmahimahi
+Odogu_x1plus_AcquaPazza	᠎Odogu_x1pplus_获取广场
+odogu_largeizakaya_karaage	᠎odogu_largizakaya-karage（印度）
+odogu_largeizakaya_motuni	᠎奥多古·拉吉扎卡亚·莫图尼
+odogu_largeizakaya_tamagoyaki	᠎odogu_largeizakaya_tamagoyaki公司
+odogu_largeizakaya_tokkuri	᠎odogu_largeizakaya_tokkuri公司
+odogu_largeizakaya_tukune	᠎odogu_largeizakaya_tukune公司
+Wine Bottle (Cap Off)	᠎酒瓶（瓶盖关闭）
+Drinks	᠎饮料
+Wine Bottle	᠎酒瓶
+Smoothie (Kiwi)	᠎冰沙（猕猴桃）
+Smoothie (Strawberry)	᠎冰沙（草莓）
+Cocktail (Blue)	᠎鸡尾酒（蓝色）
+Cocktail (Red)	᠎鸡尾酒（红色）
+Cocktail (Yellow)	᠎鸡尾酒（黄色）
+Coffee	᠎咖啡
+Beer Can	᠎啤酒罐
+Mug of Beer	᠎一杯啤酒
+Tropical Drink	᠎热带饮料
+odogu_oldplus_pride_wine	᠎奥多古葡萄酒
+odogu_x1_fruitcocktail	᠎odogu_x1水果鸡尾酒
+odogu_x1_fruitcocktail_empty	᠎odogu_x1_fruitcocktail_空
+Honeydew	᠎蜜露
+Inflatable Dolphin	᠎充气海豚
+Nei Doll	᠎Nei娃娃
+Nei Doll (Robot)	᠎Nei娃娃（机器人）
+Nei Doll (Maid)	᠎Nei娃娃（女仆）
+Hanny (Red)	᠎Hanny（红色）
+Hanny (Blue)	᠎Hanny（蓝色）
+Hanny (Green)	᠎Hanny（绿色）
+Hanny (Brown)	᠎汉尼（布朗）
+Beach Ball (Blue)	᠎沙滩球（蓝色）
+Beach Ball (Green)	᠎沙滩球（绿色）
+Beach Ball (Red)	᠎沙滩球（红色）
+Beach Ball (Yellow)	᠎沙滩球（黄色）
+Purification Rod	᠎净化棒
+Silvergrass Vase	᠎银草花瓶
+Straw Doll	᠎稻草玩偶
+Straw Doll (Pin)	᠎稻草娃娃（针）
+Charm	᠎魅力
+Bamboo Broom	᠎竹扫帚
+Snowboard (Blue)	᠎滑雪板（蓝色）
+Snowboard (Green)	᠎滑雪板（绿色）
+Snowboard (Red)	᠎滑雪板（红色）
+Snowboard (Yellow)	᠎滑雪板（黄色）
+Snowpal (Blue)	᠎斯诺帕尔（蓝色）
+Snowpal (Green)	᠎斯诺帕尔（绿色）
+Snowpal (Red)	᠎雪宝（红色）
+Snowpal (Yellow)	᠎斯诺帕尔（黄色）
+Snowball	᠎雪球
+Pile of Snowballs	᠎一堆雪球
+Snow Bear Chief	᠎雪熊酋长
+Kyoro-chan	᠎Kyoro chan公司
+Fireworks Mortar (Blue)	᠎烟花迫击炮（蓝色）
+Fireworks Mortar (Green)	᠎烟花砂浆（绿色）
+Fireworks Mortar (Purple)	᠎烟花迫击炮（紫色）
+Fireworks Mortar (Red)	᠎烟花砂浆（红色）
+Pinecone	᠎松果
+Nude Camp Signboard	᠎裸体营地标志牌
+Letter to Ojisan	᠎致Ojisan的信
+odogu_denkigai2021s_caramel	᠎odogu_denkigai2021s焦糖
+odogu_denkigai2021s_manekineko	᠎odogu_denkigai2021s_manekineko公司
+odogu_denkigai2021s_minikuma	᠎odogu_denkigai2021s_minikuma公司
+odogu_denkigai2021s_minikuma2	᠎odogu_denkigai2021s_minikuma2
+odogu_denkigai2021s_zou	᠎odogu_denkigai2021s_zou公司
+odogu_denkigai2021s_zou2	᠎odogu_denkigai2021s_zou2
+odogu_denkigai2021s_yoshikosd	᠎odogu_denkigai2021s_yoshikosd公司
+odogu_denkigai2021s_yoshiko	᠎odogu_denkigai2021s_yoshiko
+odogu_denkigai2021s_yume	᠎odogu_denkigai2021s_yume公司
+odogu_denkigai2021s_trophy	᠎odogu_denkigai2021s奖杯
+odogu_denkigai2021s_trophy2	᠎odogu_denkigai2021s_trophy2
+odogu_denkigai2021s_vibebox	᠎odogu_denkigai2021s振动箱
+odogu_denkigai2021s_package	᠎odogu_denkigai2021s包
+odogu_denkigai2021s_package2	᠎odogu_denkigai2021s_package2
+odogu_denkigai2021s_package3	᠎odogu_denkigai2021s_package3
+odogu_denkigai2021s_plushcat	᠎odogu_denkigai2021s_plushcat公司
+odogu_denkigai2021s_plushcat2	᠎odogu_denkigai2021s_plushcat2
+odogu_denkigai2021s_plushboar	᠎odogu_denkigai2021s_plushbar公司
+odogu_denkigai2021s_candybox_red	᠎odogu_denkigai2021s_candybox_red
+odogu_denkigai2021s_candybox_pink	᠎odogu_denkigai2021s_candybox_pink
+odogu_denkigai2021s_candybox_green	᠎odogu_denkigai2021s_candybox绿色
+odogu_denkigai2021s_candybox_yellow	᠎odogu_denkigai2021s_candybox黄色
+odogu_denkigai2021s_kingyo_red	᠎odogu_denkigai2021s_kingyo_read公司
+odogu_denkigai2021s_kingyo_black	᠎odogu_denkigai2021s_kingyo_black
+odogu_denkigai2021s_kingyo_yellow	᠎odogu_denkigai2021s_kingyo_黄色
+odogu_denkigai2021s_kingyo_mix	᠎odogu_denkigai2021s_kingyo_mix
+odogu_denkigai2021s_demekin	᠎odogu_denkigai2021s_demekin公司
+odogu_denkigai2021s_midorigame	᠎odogu_denkigai2021s_midorigin名称
+odogu_denkigai2021s_uni	᠎odogu_denkigai2021s_uni公司
+odogu_denkigai2021s_suisou_s	᠎odogu_denkigai2021s瑞士
+odogu_denkigai2021s_suisou_s3	᠎odogu_denkigai2021s_suisou_s3
+odogu_denkigai2021s_suisou_l	᠎odogu_denkigai2021s瑞士
+odogu_denkigai2021s_suisou_s2f	᠎odogu_denkigai2021s_suisou_s2f
+odogu_denkigai2021s_suisou_l2f	᠎odogu_denkigai2021s_suisou_l2f
+odogu_denkigai2021s_omen_akaoni	᠎odogu_denkigai2021s_omen_akaoni公司
+odogu_denkigai2021s_omen_aooni	᠎odogu_denkigai2021s_omen_aooni公司
+odogu_denkigai2021s_omen_foxblack	᠎odogu_denkigai2021s_omen_foxblack
+odogu_denkigai2021s_omen_foxwhite	᠎odogu_denkigai2021s_omen_foxwhite公司
+odogu_denkigai2021s_omen_hyottoko	᠎odogu_denkigai2021s_omen_hyotoko
+odogu_denkigai2021s_omen_okame	᠎odogu_denkigai2021s_omen_okame
+odogu_denkigai2021s_omen_rider	᠎odogu_denkigai2021s_omen_rider
+odogu_opencafe_halloween_candle_01	᠎odogu_opencafe允许处理01
+odogu_opencafe_halloween_candle_02	᠎odogu_opencafe_hallowen_andle_02
+odogu_opencafe_halloween_candle_03	᠎odogu_opencafe_hallowen_andle_03
+odogu_opencafe_halloween_candle_04	᠎odogu_opencafe_hallowen_andle_04
+odogu_opencafe_halloween_candle_05	᠎odogu_opencafe_hallowen_andle_05
+odogu_opencafe_halloween_pumpkin	᠎odogu_opencafe允许泵
+odogu_opencafe_halloween_witchhat	᠎odogu_opencafe_hallowen_witchhat
+odogu_oldplus_pure_kuma	᠎odogu_oldpus_pure_kuma公司
+odogu_x1_rose	᠎odogu_x1玫瑰
+odogu_x1_parasol	᠎odogu_x1阳伞
+odogu_x1_beachmatte	᠎odogu_x1_beach哑光
+odogu_x1_honeymoonbouquet	᠎odogu_x1蜜月花束
+odogu_x1_ring-case	᠎odogu_x1环壳
+odogu_oldplus_cool_cat	᠎odogu_oldpus_col_cat
+odogu_eventplus_devilish_koakumarobo	᠎odogu_eventplus_devilish_koakumaro博
+Odogu_x1_emperorangelfish	᠎Odogu_x1_热橙色精灵鱼
+Odogu_x1_moorish	᠎奥多古_x1_摩尔人
+Odogu_x1_napoleon	᠎奥多古_x1_拿破仑
+Odogu_x1_spigola	᠎奥多古_x1_spigola
+Odogu_x1_mahimahi	᠎奥多古_x1_mahimahi
+Odogu_x1_tuna	᠎奥多古_x1_金枪鱼
+odogu_oldplus_sadist_ironneiden	᠎odogu_oldplus_sadist_ironneiden公司
+odogu_eventplus_curtness_piggybank	᠎odogu_eventplus_curtness_piggybank
+odogu_eventplus_silent_books	᠎odogu_eventplus_silent_books
+odogu_mybedroomif_ashtray	᠎烟灰缸
+odogu_mybedroomif_ashtray_cigarette	᠎odogu_mybebromimifAshtray香烟
+odogu_mybedroomif_ashtray_cigarette_butt	᠎odogu_mybebromimif_ashtray_cigarette_butt
+odogu_mybedroomif_ashtray_cigarette_smoking	᠎odogu_mybebromimif_ashtray_cigarette_吸烟
+odogu_mybedroomif_blisterpack	᠎odogu_mybelomif_整体式包装
+odogu_mybedroomif_condombox	᠎odogu_mybebroomif-condombox（奥多古-米布尔米）
+odogu_mybedroomif_crushedempirestrong	᠎odogu_mybebromimif_scrushedempires壮
+odogu_mybedroomif_crushedenergydrink	᠎odogu_mybebromimif_scrushdenergy饮料
+odogu_mybedroomif_empirestrong	᠎奥多古-米布尔米夫-empirestrong
+odogu_mybedroomif_energydrink	᠎odogu_mybebroomif-energydrink（能量饮料）
+odogu_mybedroomif_garbage_001	᠎odogu_mybebromimif_fragage_001
+odogu_mybedroomif_garbage_002	᠎odogu_mybebromimif_fragage_002
+odogu_mybedroomif_syringe	᠎碘酒注射器
+odogu_mybedroomif_tissuebox	᠎组织盒奥多古
+odogu_mybedroomif_tissuebox_crumpled_001	᠎odogu_mybebromimif_ttissuebox_crumbled_001
+odogu_mybedroomif_tissuebox_crumpled_002	᠎odogu_mybebromimif_ttissuebox_crumbled_002
+odogu_mybedroomif_vodka	᠎伏特加
+odogu_eventplus_ladylike_winekuma	᠎odogu_eventplus_ladylike_winekuma公司
+odogu_eventplus_missy_kingmartian	᠎odogu_eventplus_missy_kingmartian公司
+odogu_eventplus_secretary_atuageman	᠎odogu_事件加上安全_管理员
+Deck of Cards	᠎一副纸牌
+Card Shooter	᠎卡片射手
+Card A (Club)	᠎A卡（俱乐部）
+Card 2 (Club)	᠎卡2（俱乐部）
+Card 3 (Club)	᠎卡3（俱乐部）
+Card 4 (Club)	᠎卡4（俱乐部）
+Card 5 (Club)	᠎卡5（俱乐部）
+Card 6 (Club)	᠎卡6（俱乐部）
+Card 7 (Club)	᠎卡7（俱乐部）
+Card 8 (Club)	᠎卡8（俱乐部）
+Card 9 (Club)	᠎卡9（俱乐部）
+Card 10 (Club)	᠎卡10（俱乐部）
+Card Jack (Club)	᠎卡片插孔（俱乐部）
+Card Queen (Club)	᠎卡女王（俱乐部）
+Card King (Club)	᠎卡王（俱乐部）
+Card A (Diamond)	᠎卡片A（菱形）
+Card 2 (Diamond)	᠎卡片2（菱形）
+Card 3 (Diamond)	᠎卡片3（菱形）
+Card 4 (Diamond)	᠎卡片4（菱形）
+Card 5 (Diamond)	᠎卡片5（菱形）
+Card 6 (Diamond)	᠎卡片6（菱形）
+Card 7 (Diamond)	᠎卡片7（菱形）
+Card 8 (Diamond)	᠎卡片8（菱形）
+Card 9 (Diamond)	᠎卡片9（菱形）
+Card 10 (Diamond)	᠎卡片10（菱形）
+Card Jack (Diamond)	᠎卡片插孔（菱形）
+Card Queen (Diamond)	᠎卡片女王（钻石）
+Card King (Diamond)	᠎卡王（钻石）
+Card A (Heart)	᠎卡片A（心形）
+Card 2 (Heart)	᠎卡片2（心形）
+Card 3 (Heart)	᠎卡片3（心形）
+Card 4 (Heart)	᠎卡片4（心形）
+Card 5 (Heart)	᠎卡片5（心形）
+Card 6 (Heart)	᠎卡片6（心形）
+Card 7 (Heart)	᠎卡片7（心形）
+Card 8 (Heart)	᠎卡片8（心形）
+Card 9 (Heart)	᠎卡片9（心形）
+Card 10 (Heart)	᠎卡片10（心形）
+Card Jack (Heart)	᠎卡片插孔（心形）
+Card Queen (Heart)	᠎卡片女王（心形）
+Card King (Heart)	᠎纸牌王（心形）
+Card A (Spades)	᠎卡片A（黑桃）
+Card 2 (Spades)	᠎卡片2（黑桃）
+Card 3 (Spades)	᠎卡片3（黑桃）
+Card 4 (Spades)	᠎卡片4（黑桃）
+Card 5 (Spades)	᠎卡片5（黑桃）
+Card 6 (Spades)	᠎卡片6（黑桃）
+Card 7 (Spades)	᠎卡片7（黑桃）
+Card 8 (Spades)	᠎卡片8（黑桃）
+Card 9 (Spades)	᠎卡片9（黑桃）
+Card 10 (Spades)	᠎卡片10（黑桃）
+Card Jack (Spades)	᠎卡片插孔（黑桃）
+Card Queen (Spades)	᠎纸牌皇后（黑桃）
+Card King (Spades)	᠎纸牌王（黑桃）
+Card Joker	᠎纸牌小丑
+Casino Chip (10)	᠎赌场筹码（10）
+Casino Chip (100)	᠎赌场筹码（100）
+Casino Chip (1000)	᠎赌场筹码（1000）
+Condom (Open)	᠎公寓（开放式）
+Play	᠎性玩具
+Condom (Used Open)	᠎安全套（二手开放式）
+Condom (Used Closed)	᠎安全套（已关闭）
+Dildo Box	᠎Dildo盒子
+Guillotine	᠎断头台
+Guillotine Base	᠎断头台底座
+Ottoman	᠎奥斯曼帝国
+Sex Sofa	᠎性爱沙发
+Restraint Table	᠎约束表
+Restraint Table (H)	᠎约束表（H）
+Restraint Chair	᠎约束座椅
+Sukebe Chair	᠎Sukebe主席
+Inflatable Pool Mat	᠎充气泳池垫
+Wooden Horse	᠎木制马
+Vibe (Panda)	᠎Vibe（熊猫）
+Vibe (Elephant)	᠎Vibe（大象）
+Vibe (Squirrel)	᠎Vibe（松鼠）
+odogu_xxx_vibeex	᠎奥多古_xxx_vibeex
+odogu_xxx_analvibeex	᠎odogu_xxx_铝合金
+odogu_kousokumachine_chair	᠎odogu_kousokumachine椅子
+odogu_kousokumachine_console	᠎odogu_kousokumachine_控制台
+odogu_kousokumachine_armdenma	᠎奥多古-库索库马-阿姆登马
+odogu_kousokumachine_armvibe	᠎odogu_kousokumachine_armvibe公司
+odogu_kousokumachine_armcli	᠎odogu_kousokumachine_armcli公司
+odogu_kousokumachine_armbase	᠎odogu_kousokumachine_臂座
+Confetti	᠎五彩纸屑
+Particles	᠎粒子
+Sink Water	᠎水槽水
+Bubbles	᠎泡沫
+Bubbles (Wash)	᠎气泡（清洗）
+Steam (Pot)	᠎蒸汽（锅）
+Smoke	᠎烟
+Steam (Onsen)	᠎蒸汽（温泉）
+Starburst	᠎星爆
+Bubbles (Bath)	᠎气泡（浴）
+Snow (Large)	᠎雪（大）
+Snow (Small)	᠎雪（小）
+Steam (Onsen Large)	᠎蒸汽（大型温泉）
+Smoke (Dance)	᠎烟雾（舞蹈）
+Particle (Line)	᠎粒子（线）
+Particle (Line Heart)	᠎粒子（线心）
+Particle (Heart)	᠎粒子（心脏）
+Particle (Stars)	᠎粒子（星星）
+Particle (Starfield)	᠎粒子（Starfield）
+Whale Shark	᠎鲸鲨
+Props 1	᠎道具1
+classroom_nodesk_wide	᠎教室_节点_面
+classroom_nodesk_wide_cherryblossoms	᠎classroom_nodesk_wide_cherryflows
+seahorse swimmers	᠎海马游泳运动员
+seahorse	᠎海马
+fish school goldfish swimmers	᠎金鱼游泳学校
+goldfish avoidance mobile	᠎金鱼躲避车
+goldfish avoidance	᠎金鱼回避
+goldfish	᠎金鱼
+demo environment	᠎演示环境
+sunbeams	᠎阳光
+emperor_angelfish	᠎温度传感器
+mahimahi	᠎玛希玛希
+moorish	᠎摩尔人的
+napoleon	᠎拿破仑
+spigola	᠎斯皮戈拉
+tuna	᠎金枪鱼
+fish_game	᠎鱼_名称
+handitemr_x001_fishpole_idle	᠎handiter_x001_打捞工具
+franchise001_bgmove	᠎特许权人001_bgmove
+goldfishall	᠎金鱼球
+kingyo_gamebg	᠎王者荣耀
+odogu_denkigai2021s_bowl	᠎odogu_denkigai2021s碗
+heroineroom_m1	᠎女英雄室m1
+heroineroom_m1_night	᠎女英雄oom_m1_night
+heroineroom_n1	᠎女英雄oom_n1
+heroineroom_n1_night	᠎女英雄oom_n1_right
+heroineroom_v1	᠎女英雄oom_v1
+heroineroom_v1_night	᠎女英雄oom_v1_night
+heroineroom_w1	᠎女英雄oom_w1
+heroineroom_w1_night	᠎女英雄oom_w1_night
+crc_mbody001_arm	᠎crc_车身001_臂
+mbody_arm	᠎机械臂（_A）
+odogu_denkigai2021s_kingyo_black_anime	᠎odogu_denkigai2021s_kingyo_black_atime
+odogu_denkigai2021s_kingyo_demekin_anime	᠎odogu_denkigai2021s_kingyo_demekin_atime
+odogu_denkigai2021s_kingyo_mix_anime	᠎odogu_denkigai2021s_kingyo_mix_time
+odogu_denkigai2021s_kingyo_red_anime	᠎odogu_denkigai2021s_kingyo_red_动漫
+odogu_denkigai2021s_kingyo_reds1_anime	᠎odogu_denkigai2021s_kingyo_reds1动漫
+odogu_denkigai2021s_kingyo_reds2_anime	᠎odogu_denkigai2021s_kingyo_reds2_anime
+odogu_denkigai2021s_kingyo_yellow_anime	᠎odogu_denkigai2021s_kingyo_yellow_时间
+odogu_denkigai2021s_midorigame_anime	᠎odogu_denkigai2021s_midorigame_时间
+odogu_omytgc023_semotareisu	᠎odogu_omytgc023_电机
+odogu_x1_ring case	᠎odogu_x1环壳
+Cat Doll	᠎猫娃娃
+Dresser	᠎梳妆台
+Dresser Chair	᠎梳妆椅
+French Fries	᠎炸薯条
+Patio Umbrella	᠎中柱遮阳伞
+odogu_gp002_moyashistir-fry_enpty	᠎odogu_gp002_制造商-制造商
+odogu_gp002_steak	᠎odogu_gp002_峰值
+Symbol Diamond	᠎符号菱形
+Symbol Diamond Base	᠎符号菱形底座
+Symbol Heart	᠎符号心形
+Symbol Heart Base	᠎符号心形底座
+odogu_gp002_symbolc	᠎odogu_gp002_符号
+odogu_gp002_symbolc_base	᠎odogu_gp002_符号库
+Whip	᠎鞭子
+Water Box	᠎水箱
+Hamburger Food Truck	᠎汉堡食品车
+Hamburger Signboard	᠎汉堡招牌
+Signboard	᠎标志牌
+Ane Chair	᠎Ane主席
+Bokukko Chair	᠎Bokukko椅子
+Wary Chair	᠎Wary椅子
+odogu_heroinechair_dom	᠎odogu_主席_办公室
+Sadist Chair	᠎虐待狂主席
+odogu_heroinechair_haraguro	᠎奥多古·海洛内主席
+Imouto Chair	᠎Imouto主席
+Koakuma Chair	᠎Koakuma主席
+Secretary Maid Chair	᠎秘书助理主席
+Bookworm Chair	᠎书虫椅
+Ojousama Chair	᠎Ojousama椅子
+Osanajimi Chair	᠎Osanajimi主席
+Ojou Chair	᠎Ojou椅子
+odogu_heroinechair_v1	᠎odogu_主席_v1
+odogu_heroinechair_w1	᠎odogu_主席_w1
+odogu_heroinechair_x1	᠎odogu_主席_x1
+odogu_heroinechair_y1	᠎奥多古主席y1
+Yandere Chair	᠎Yandere主席
+odogu_heroinechair_z1	᠎odogu_主席_z1
+Shaved Ice	᠎刨冰
+Card (Kiss Master)	᠎卡片（接吻大师）
+Card (Kabedon)	᠎卡（Kabedon）
+Card (Sexy Pose)	᠎卡片（性感姿势）
+Card (Idol Pose)	᠎卡片（偶像姿势）
+Card (Sexy Police)	᠎卡片（性感警察）
+Card (Propose to Master)	᠎卡片（向大师提议）
+Card (Blow Master\'s Ear)	᠎卡片（吹大师的耳朵）
+Card (Beg)	᠎卡片（Beg）
+Card (Dog Beg)	᠎卡片（狗乞求）
+Card (Sexy Pose Arms Up)	᠎卡片（性感姿势手臂向上）
+Card (After Sex)	᠎卡片（性爱后）
+Card (Whisper)	᠎卡片（耳语）
+Card (Kiss Maid)	᠎卡片（Kiss Maid）
+Card (Blow Maid\'s Ear)	᠎卡片（吹女仆的耳朵）
+Card (Master Strip)	᠎卡片（母带）
+Card (Look in Disgust)	᠎卡片（厌恶地看）
+Card (Air Massage)	᠎卡片（空气按摩）
+Card (Give Clothes)	᠎卡片（送衣服）
+Card (Staring Contest)	᠎卡片（凝视比赛）
+Card (Confess)	᠎卡片（自白）
+Card (Jump 3 Times)	᠎卡片（跳3次）
+Card (Moe Cat)	᠎卡片（Moe Cat）
+Card (Recent Ecchi)	᠎卡片（最近的Ecchi）
+Card (Sexy Mozzarella)	᠎卡片（性感的Mozzarella）
+Card (Seduction)	᠎卡片（诱惑）
+Card (Lewd Sound)	᠎卡片（Lewd Sound）
+Karaoke Chair	᠎卡拉OK椅
+Karaoke Chair Base	᠎卡拉OK椅子底座
+Karaoke Box	᠎卡拉OK包厢
+Karaoke Table	᠎卡拉OK桌
+Stool	᠎凳子
+Stool Base	᠎大便器底座
+Easel	᠎画架
+Chu-B Lip (Black)	᠎Chu-B唇（黑色）
+odogu_personal_om012_gyusuzicurry	᠎odogu_persona_om012_gyusuzicurry公司
+odogu_personal_om012_tableware	᠎odogu_persona_om012_桌面软件
+odogu_personal_om012_vichyspaghetti-empty	᠎odogu_persona_om012_vichyspaghetti-empty
+odogu_personal_om012_vichyspaghetti	᠎odogu_persona_om012_vichyspaghetti
+odogu_pr_table	᠎odogu_pr_table表
+odogu_pr_table_chuuka	᠎odogu_表格_ huuka
+odogu_pr_table_wasyoku	᠎odogu_pr_table_wasyoku
+odogu_pr_table_yousyoku	᠎odogu_pr_table_yousoku
+Present	᠎目前
+Present (Crushed)	᠎存在（压碎）
+Snack Platter	᠎小吃拼盘
+Sex Stool	᠎性大便器
+Yakitori Banner	᠎Yakitori旗
+Yakitori Food Truck	᠎Yakitori食品车
+Yakitori Signboard	᠎Yakitori招牌
+odogu_denkigai2021s_cork	᠎odogu_denkigai2021s_软木
+odogu_denkigai2021s_corkgun	᠎odogu_denkigai2021s_软木枪
+odogu_denkigai2021s_keihindai	᠎odogu_denkigai2021s_kehindai公司
+odogu_denkigai2021s_candybox_green_shooting	᠎odogu_denkigai2021s_candybox_green_shooting
+odogu_denkigai2021s_candybox_pink_shooting	᠎odogu_denkigai2021s_candybox_pink_shooting
+odogu_denkigai2021s_candybox_red_shooting	᠎odogu_denkigai2021s_candybox _拍摄
+odogu_denkigai2021s_candybox_yellow_shooting	᠎odogu_denkigai2021s_candybox_yellow_shooting
+odogu_denkigai2021s_caramel_shooting	᠎odogu_denkigai2021s_caramel_shooting公司
+odogu_denkigai2021s_manekineko_shooting	᠎odogu_denkigai2021s_manekineko_拍摄
+odogu_denkigai2021s_minikuma2_shooting	᠎odogu_denkigai2021s_minikuma2_拍摄
+odogu_denkigai2021s_minikuma_shooting	᠎odogu_denkigai2021s_minikuma_拍摄
+odogu_denkigai2021s_oji_shooting	᠎odogu_denkigai2021s_oji_拍摄
+odogu_denkigai2021s_package2_shooting	᠎odogu_denkigai2021s_package2_拍摄
+odogu_denkigai2021s_package3_shooting	᠎odogu_denkigai2021s_package3_拍摄
+odogu_denkigai2021s_package_shooting	᠎odogu_denkigai2021s包装拍摄
+odogu_denkigai2021s_plushboar_shooting	᠎odogu_denkigai2021s_plushboar_shooting
+odogu_denkigai2021s_plushcat2_shooting	᠎odogu_denkigai2021s_plushcat2_拍摄
+odogu_denkigai2021s_plushcat_shooting	᠎odogu_denkigai2021s_plushcat_shooting
+odogu_denkigai2021s_trophy2_shooting	᠎odogu_denkigai2021s_tropy2_shooting
+odogu_denkigai2021s_trophy_shooting	᠎odogu_denkigai2021s滋养拍摄
+odogu_denkigai2021s_vibebox_shooting	᠎odogu_denkigai2021s_vibbox_shooting
+odogu_denkigai2021s_yoshiko_shooting	᠎odogu_denkigai2021s_yoshiko拍摄
+odogu_denkigai2021s_yoshikosd_shooting	᠎odogu_denkigai2021s_yoshikosd_拍摄
+odogu_denkigai2021s_yume_shooting	᠎odogu_denkigai2021s_yume_拍摄
+odogu_denkigai2021s_zou2_shooting	᠎odogu_denkigai2021s_zou2_拍摄
+odogu_denkigai2021s_zou_shooting	᠎odogu_denkigai2021s_zou拍摄
+shooting_game	᠎射击_游戏
+shooting_game_yamit	᠎射击_名称_ yamit
+turtle_1	᠎高领毛衣1
+turtle_10	᠎高领毛衣_10
+turtle_2	᠎高领毛衣2
+turtle_3	᠎套头衫3
+turtle_4	᠎套头衫_4
+turtle_6	᠎套头衫6
+turtle_7	᠎套头衫_7
+turtle_8	᠎套头衫_8
+turtle_9	᠎套头衫_9
+Weird Glasses Thing	᠎奇怪的眼镜东西
+Fried Rice	᠎炒饭
+Gyoza	᠎吉奥萨
+Mapo Tofu	᠎麻婆豆腐
+Tea	᠎茶叶
+Classroom Chair	᠎课堂椅
+Classroom Desk	᠎教室课桌
+Vintage Camera	᠎复古相机
+Kitchen	᠎厨房
+Maid Chair	᠎女仆椅
+OX Camera	᠎OX摄像机
+PC Tower	᠎PC塔
+Keyboard	᠎键盘
+Monitor	᠎班长
+Mouse	᠎老鼠
+Planter (Light Blue)	᠎播种机（浅蓝色）
+Panter (Red)	᠎内裤（红色）
+Floor Table	᠎落地式桌子
+Floor Table (Chinese Food)	᠎落地桌（中餐）
+Floor Table (Japanese Food)	᠎落地桌（日本料理）
+Floor Table (Western Food)	᠎落地桌（西餐）
+Toilet	᠎坐便器
+Big Screen	᠎大屏幕
+Flowers	᠎鲜花
+Plushy Basket	᠎毛绒篮子
+Laundry Basket	᠎洗衣篮
+Towel Stack	᠎毛巾架
+Clothesline	᠎Clothesline公司
+Wooden Horse 2	᠎木马2
+Stylus (Black)	᠎触针（黑色）
+Stylus (Blue)	᠎触针（蓝色）
+Stylus (Green)	᠎触针（绿色）
+Stylus (Red)	᠎触针（红色）
+Stylus (White)	᠎触针（白色）
+Stylus (Yellow)	᠎触针（黄色）
+Table With Flowers	᠎有花的桌子
+Tablet PC	᠎平板电脑
+Wedding Aisle	᠎婚礼过道
+Vive Lighthouse	᠎活灯塔
+Bowl of Rice	᠎一碗米饭
+Chopsticks	᠎筷子
+Miso	᠎味噌
+Boiled Food	᠎煮食物
+Green Tea	᠎绿茶
+Chicken Fried Rice	᠎鸡肉炒饭
+Coffee (Small)	᠎咖啡（小）
+Corn Soup	᠎玉米汤
+Hamburger Steak	᠎汉堡牛排
+Spork	᠎斯波克
+Mob Man Stand 1	᠎暴徒看台1
+Props 2	᠎道具2
+Mob Man Stand 2	᠎暴徒看台2
+Mob Man Stand 3	᠎暴徒看台3
+Mob Man Sit 1	᠎暴徒坐1
+Mob Man Sit 2	᠎暴徒坐2
+Mob Man Sit 3	᠎暴徒坐3
+Mob Girl Stand 1	᠎暴徒女孩站1
+Mob Girl Stand 2	᠎暴徒女孩站2
+Mob Girl Stand 3	᠎暴徒女孩站3
+Mob Girl Sit 1	᠎暴徒女孩坐1
+Mob Girl Sit 2	᠎暴徒女孩坐2
+Mob Girl Sit 3	᠎暴徒女孩坐3
+Mini Xmas Tree	᠎迷你圣诞树
+Desk	᠎书桌饰品
+Mini New Year\'s Pine	᠎迷你新年松
+Odogu_COM3D2Postcard	᠎奥多古_COM3D2明信片
+Odogu_denkigai2017w_Keyholder_Rindere	᠎Odogu_denkigai2017w_钥匙座_独立
+Poster (Karaoke VR2)	᠎海报（卡拉OK VR2）
+Poster (Starter)	᠎海报（初学者）
+Poster (Starter 2)	᠎海报（初学者2）
+Odogu_denkigai2017w_Card	᠎Odogu_denkigai2017w_卡
+Odogu_kissevent2018_Pamphlet	᠎Odogu_kisevent2018_邮票
+Custom Maid Vocal Collection	᠎定制女仆声乐系列
+Custom Maid Vocal 3D2 Collection	᠎定制女仆声乐3D2系列
+odogu_denkigai2018s_card	᠎odogu_denkigai2018s卡
+denkigai2018s_postercm3d2com3d2	᠎登基盖2018s_postercm3d2com3d2
+denkigai2018s_posterhubs2	᠎登基盖2018s_后轮毂2
+denkigai2018s_postermukuti	᠎登基盖2018s_postermukuti
+denkigai2018s_posteryandere	᠎登基盖2018s_后
+odogu_denkigai2018s_disk	᠎odogu_denkigai2018s_磁盘
+odogu_denkigai2018s_jacket	᠎odogu_denkigai2018s夹克
+odogu_denkigai2018s_turntable	᠎odogu_denkigai2018s转盘
+Odogu_denkigai2018s_StickPoster1	᠎Odogu_denkigai2018s_贴纸海报1
+Bride Maid Jewelry Box	᠎伴娘首饰盒
+Bride Maid Blade (White)	᠎新娘刀（白色）
+Bride Maid Blade (Red)	᠎新娘刀（红色）
+Bride Maid Blade (Black)	᠎新娘刀（黑色）
+Bride Maid Blade (Brown)	᠎新娘刀（棕色）
+Bride Maid Blade (Purple)	᠎新娘刀（紫色）
+Uncle\'s Portrait	᠎叔叔的肖像
+Nice Pot (Light Blue)	᠎漂亮的锅（浅蓝色）
+Nice Pot (Brown)	᠎漂亮的锅（棕色）
+Nice Pot (Sky Blue)	᠎漂亮的锅（天蓝色）
+Nice Pot (Blue)	᠎漂亮的锅（蓝色）
+Nice Pot (Black)	᠎漂亮的锅（黑色）
+Nice Scroll	᠎漂亮的卷轴
+Uncle\'s Photo	᠎叔叔的照片
+Muku Sticker	᠎Muku贴纸
+Sword (Blue)	᠎剑（蓝色）
+Sword (Red)	᠎剑（红色）
+Sword (Black)	᠎剑（黑色）
+Sword (White)	᠎剑（白色）
+Sword (Brown)	᠎剑（棕色）
+Card	᠎卡片
+odogu_denkigai2019s_stickposter1	᠎odogu_denkigai2019s_stickposter1
+odogu_denkigai2019s_stickposter2	᠎odogu_denkigai2019s_stickposter2
+odogu_denkigai2019s_stickposter3	᠎odogu_denkigai2019s_stickposter3
+Poster (Ojousama)	᠎海报（Ojousama）
+Jewelry Box 2	᠎首饰盒2
+Uncle Mat	᠎马特叔叔
+Uncle Coaster	᠎过山车叔叔
+Odogu_denkigai2021s_caramel	᠎Odogu_denkigai2021s_焦糖
+Odogu_denkigai2021s_manekineko	᠎Odogu_denkigai2021s_manekineko公司
+Odogu_denkigai2021s_minikuma	᠎Odogu_denkigai2021s_minikuma公司
+Odogu_denkigai2021s_zou	᠎Odogu_denkigai2021s_zou公司
+Odogu_denkigai2021s_yoshikoSD	᠎Odogu_denkigai2021s_yoshikoSD公司
+Odogu_denkigai2021s_trophy	᠎Odogu_denkigai2021s_trophy
+Odogu_denkigai2021s_vibebox	᠎Odogu_denkigai2021s_vibbox
+Odogu_denkigai2021s_package	᠎Odogu_denkigai2021s_包
+Odogu_denkigai2021s_plushcat	᠎Odogu_denkigai2021s_plushcat公司
+Odogu_denkigai2021s_plushboar	᠎Odogu_denkigai2021s_plushbar公司
+Odogu_denkigai2021s_candybox_red	᠎Odogu_denkigai2021s_candybox_red
+Odogu_denkigai2021s_candybox_green	᠎Odogu_denkigai2021s_candybox绿色
+Odogu_denkigai2021s_candybox_yellow	᠎Odogu_denkigai2021s_candybox黄色
+Odogu_denkigai2021s_candybox_pink	᠎Odogu_denkigai2021s_candybox_pink
+Odogu_denkigai2021s_minikuma2	᠎Odogu_denkigai2021s_minikuma2
+Odogu_denkigai2021s_trophy2	᠎Odogu_denkigai2021s_trophy2
+Odogu_denkigai2021s_package2	᠎Odogu_denkigai2021s_package2
+Odogu_denkigai2021s_package3	᠎Odogu_denkigai2021s_package3
+Odogu_denkigai2021s_plushcat2	᠎Odogu_denkigai2021s_plushcat2
+Odogu_denkigai2021s_yoshiko	᠎Odogu_denkigai2021s_yoshiko公司
+Odogu_denkigai2021s_yume	᠎Odogu_denkigai2021s_yume公司
+Odogu_denkigai2021s_zou2	᠎Odogu_denkigai2021s_zou2
+odogu_denkigai2021s_suisou_s2	᠎odogu_denkigai2021s_suisou_s2
+odogu_denkigai2021s_suisou_l2	᠎odogu_denkigai2021s_suisou_l2
+Odogu_denkigai2021s_omen_akaoni	᠎Odogu_denkigai2021s_omen_akaoni公司
+Odogu_denkigai2021s_omen_aooni	᠎Odogu_denkigai2021s_omen_aooni公司
+Odogu_denkigai2021s_omen_foxblack	᠎Odogu_denkigai2021s_omen_foxblack
+Odogu_denkigai2021s_omen_foxwhite	᠎Odogu_denkigai2021s_omen_foxwhite
+Odogu_denkigai2021s_omen_hyottoko	᠎Odogu_denkigai2021s_omen_hyotoko
+Odogu_denkigai2021s_omen_okame	᠎Odogu_denkigai2021s_omen_okame
+Odogu_denkigai2021s_omen_rider	᠎Odogu_denkigai2021s_omen_rider
+Odogu_denkigai2021s_wataame	᠎Odogu_denkigai2021s_wataame公司
+Odogu_denkigai2021s_ramune	᠎Odogu_denkigai2021s_ramune公司
+Odogu_denkigai2021s_frankfurt	᠎Odogu_denkigai2021s_法兰克福
+Syringe	᠎注射器
+Hand Items	᠎手持物品
+Butter Knife	᠎黄油刀
+Vibe (Pink)	᠎Vibe（粉色）
+Shaker	᠎振动器
+Smartphone	᠎智能手机
+Vegetable Knife	᠎蔬菜刀
+Chopped Daikon	᠎切碎的Daikon
+Clipboard	᠎剪贴板
+Vibe	᠎震波
+Cracker	᠎饼干
+handitemr_cards_i_.menu	᠎handitemr_cards_i_菜单
+Mop 2	᠎拖把2
+handitemr_etoile_teacup_i_.menu	᠎handiterm_etoile_techui_.菜单
+Ladle	᠎长柄勺
+Karaoke Mic	᠎卡拉OK麦克风
+Anal Vibe	᠎肛门Vibe
+Double Headed Dildo	᠎双头Dildo
+Mop	᠎拖把
+Chef\'s Knife	᠎厨师刀
+Book	᠎书
+handiteml_folk_i_.menu	᠎handiteml_folk_i_菜单
+Saucer (Etoile)	᠎绍尔（Etoile）
+Dust Cloth	᠎防尘布
+Nei Doll (Heart)	᠎Nei Doll（心形）
+Broom	᠎扫把
+Spoon	᠎勺子
+Vibe (Big)	᠎Vibe（大）
+Binoculars	᠎双筒望远镜
+BROKEN Healer Wand	᠎破损的治疗棒
+Card (Ace)	᠎卡片（Ace）
+Silver Tray (Fish Dish)	᠎银盘（鱼盘）
+Wine Glass (Melon Soda)	᠎酒杯（甜瓜苏打）
+Ketchup	᠎番茄酱
+Parfait Spoon	᠎Parfait勺子
+Maraca	᠎马拉卡
+Folding Fan	᠎折叠式风扇
+Pocky	᠎波奇
+Folding Fan (Sakura)	᠎折扇（樱花）
+Handycam	᠎Handycam公司
+handitemh_omytgc014_peniban_i_.menu	᠎handitemh_omytgc014_peniban_i_.菜单
+handitemr_kantyo_i_.menu	᠎handitemr_kantyo_i_菜单
+Magic Wand	᠎魔术棒
+Tennis Racket	᠎网球拍
+handitemr_chu-b_lip_black_i_.menu	᠎handitemr_chu-b_lip_black_i_.菜单
+Chu-B Lip (White)	᠎Chu-B唇（白色）
+Ear Pick	᠎耳镐
+Wine Glass (Beer)	᠎酒杯（啤酒）
+handitemr_laser_chu-b_lip_i_.menu	᠎handitemr_laser_chu-b_lip_i_菜单
+Mug (Coffee)	᠎马克杯（咖啡）
+Dildo	᠎迪尔多
+BG (Small)	᠎背景（小型）
+Open Cafe	᠎开放式咖啡馆
+Open Cafe (Night)	᠎开放式咖啡厅（夜间）
+Restaurant	᠎餐馆
+Restaurant (Night)	᠎餐厅（夜间）
+Office	᠎办公室
+Office (Night)	᠎办公室（夜间）
+Shopping Mall	᠎购物中心
+Shopping Mall (Night)	᠎购物中心（夜间）
+Bedroom	᠎卧室
+Bedroom (Night)	᠎卧室（夜间）
+Living Room	᠎客厅
+Living Room (Night)	᠎客厅（夜间）
+Bathroom	᠎浴室
+Bathroom (Night)	᠎浴室（夜间）
+Washroom	᠎洗手间
+Washroom (Night)	᠎卫生间（夜间）
+SM Club	᠎SM俱乐部
+Soapland	᠎泡泡浴
+Spa	᠎水疗生活馆
+Spa (Night)	᠎水疗中心（夜间）
+RanceX Collab Cafe	᠎RanceX Collab咖啡馆
+RanceX Collab Cafe (Night)	᠎RanceX Collab咖啡厅（夜间）
+Beach Cafe	᠎海滩咖啡馆
+Beach Cafe (Night)	᠎海滩咖啡馆（夜间）
+Riddle Joker Collab Cafe	᠎Riddle Joker Collab咖啡厅
+Riddle Joker Collab Cafe (Night)	᠎Riddle Joker Collab咖啡厅（夜间）
+Locker Room	᠎更衣室
+Basement	᠎地下室
+Pool	᠎水塘
+Pool (Night)	᠎游泳池（夜间）
+Wanko no Yomeiri Collab Cafe	᠎Wanko no Yomeiri Collab咖啡馆
+Wanko no Yomeiri Collab Cafe (Night)	᠎Wanko no Yomeiri Collab咖啡厅（夜间）
+Shrine	᠎圣地
+Shrine (Night)	᠎神社（夜间）
+Raspberry Cube Collab Cafe	᠎树莓方块拼贴咖啡馆
+Raspberry Cube Collab Cafe (Night)	᠎Raspberry Cube Collab咖啡厅（夜间）
+Minikui Mojika no Ko Collab Cafe	᠎Minikui Mojika no Ko Collab咖啡馆
+Minikui Mojika no Ko Collab Cafe (Night)	᠎Minikui Mojika no Ko Collab咖啡厅（夜间）
+Future Radio and Artificial Pigeons Collab Cafe	᠎未来的无线电和人造鸽子Collab咖啡馆
+Future Radio and Artificial Pigeons Collab Cafe (Night)	᠎未来电台和人造鸽子Collab咖啡厅（夜间）
+Pole Dance Stage	᠎钢管舞舞台
+Empire Club Hallway	᠎帝国俱乐部大厅
+Empire Club Elevator	᠎帝国俱乐部电梯
+Ski Slope	᠎滑雪道
+Ski Slope (Night)	᠎滑雪坡（夜间）
+Fantasy Inn	᠎梦幻旅馆
+Fantasy Inn (Night)	᠎梦幻酒店（夜间）
+Kin\'iro Loveriche GT Collab Cafe	᠎Kin\'iro Loveriche GT Collab咖啡馆
+Kin\'iro Loveriche GT Collab Cafe (Night)	᠎Kin\'iro Loveriche GT Collab咖啡厅（夜间）
+CRYSTALiA Collab Cafe	᠎CRYSTALiA Collab咖啡馆
+CRYSTALiA Collab Cafe (Night)	᠎CRYSTALiA Collab咖啡厅（夜间）
+Spring Garden	᠎春天花园
+Spring Garden (Night)	᠎春天花园（夜晚）
+Spring Garden (No Stalls)	᠎春天花园（无摊位）
+Spring Garden (Night No Stalls)	᠎春季花园（夜间无摊位）
+Evenicle Ⅱ Collab Cafe	᠎EvenicleⅡCollab咖啡馆
+Evenicle Ⅱ Collab Cafe (Night)	᠎EvenicleⅡCollab咖啡厅（夜间）
+Korolum Collab Cafe	᠎Korolum Collab咖啡馆
+Korolum Collab Cafe (Night)	᠎Korolum Collab咖啡厅（夜间）
+Korolum Collab Cafe 2	᠎Korolum Collab咖啡馆2
+Korolum Collab Cafe 2 (Night)	᠎Korolum Collab Cafe 2（夜间）
+Japanese Style House	᠎日式住宅
+Japanese Style House (Night)	᠎日式住宅（夜间）
+Wanko no Yomeiri Collab Cafe 2	᠎Wanko no Yomeiri Collab咖啡馆2
+Wanko no Yomeiri Collab Cafe 2 (Night)	᠎Wanko no Yomeiri Collab Cafe 2（夜间）
+opemcafe_imys	᠎操作费
+opemcafe_imys_night	᠎操作模式_右侧
+Nekopara Collab Cafe	᠎Nekopara Collab咖啡馆
+Nekopara Collab Cafe (Night)	᠎Nekopara Collab咖啡厅（夜间）
+Luxury Bathroom	᠎豪华浴室
+Cathedral	᠎大教堂
+Private Room 2	᠎私人房间2
+Private Room 2 (Night)	᠎私人房间2（夜间）
+Private Room 2 (Lights Off)	᠎私人房间2（熄灯）
+Homeless Tent	᠎无家可归的帐篷
+Ai Kiss Collab Cafe	᠎Ai Kiss Collab咖啡厅
+Ai Kiss Collab Cafe (Night)	᠎Ai Kiss Collab咖啡厅（夜间）
+Boutique	᠎时装店
+Adult Shop	᠎成人商店
+Park	᠎公园
+Park (Night)	᠎公园（夜间）
+Park (No Food Trucks)	᠎停车场（无食品卡车）
+Park (Night No Food Trucks)	᠎公园（夜间无食品卡车）
+Aquarium (No Chairs)	᠎水族馆（无椅子）
+Aquarium	᠎养鱼缸
+Japanese Bar	᠎日式酒吧
+Japanese Bar Messy	᠎日本酒吧凌乱
+Street Corner	᠎街道拐角处
+Street Corner (Night)	᠎街角（夜间）
+Mary-san Collab Cafe	᠎Mary san Collab咖啡馆
+Mary-san Collab Cafe (Night)	᠎Mary san Collab咖啡厅（夜间）
+lovehotel	᠎爱情旅馆
+Dubious Bar	᠎Dubious酒吧
+Campsite (Day)	᠎营地（白天）
+Campsite (Dusk)	᠎露营地（黄昏）
+Campsite (Night)	᠎露营地（夜间）
+avstudio	᠎avstudio公司
+avstudio_night	᠎avstudio_夜
+opemcafe_aikiss2	᠎操作费2
+opemcafe_aikiss2_night	᠎操作指南_night
+watercottage	᠎水彩画
+watercottage_night	᠎水附件_右侧
+japanesemodernhotel	᠎日本现代酒店
+japanesemodernhotel_night	᠎日本现代酒店之夜
+ennichi_mainstage	᠎恩尼奇主舞台
+opencafe_halloween	᠎露天咖啡厅
+franchise001_animeon	᠎特许权人001_时间
+franchise001	᠎特许权人001
+Private Room	᠎私人房间
+Private Room (Night)	᠎私人房间（夜间）
+heroineroom_x1	᠎女英雄oom_x1
+heroineroom_x1_night	᠎女英雄oom_x1_night
+heroineroom_y1	᠎女英雄oom_y1
+heroineroom_y1_night	᠎女英雄oom_y1_night
+wbeach	᠎wbeach公司
+wbeach_sunset	᠎wbeach_未设置
+wbeach_night	᠎白色_白色
+honeymoonhotel	᠎蜜月酒店
+honeymoonhotel_sunset	᠎蜜月酒店日落
+honeymoonhotel_night	᠎蜜月酒店之夜
+showerroom	᠎淋浴房
+showerroom_night	᠎淋浴间_右侧
+secretinlet	᠎分泌入口
+secretinlet_sunset	᠎secretinlet_sunset
+secretinlet_night	᠎secretinlet_右侧
+seacottage	᠎海上小屋
+seacottage_night	᠎海景小屋_右侧
+heroineroom_z1	᠎女英雄oom_z1
+heroineroom_z1_night	᠎女英雄之夜
+privateroom_devilish	᠎私人房间_丑化
+privateroom_devilish_night	᠎私人房间_文明_灯光
+privateroom_sadist	᠎私人房间_管理员
+privateroom_sadist_night	᠎私人房间_浴室_右侧
+poledancebar	᠎极棒
+privateroom_curtness	᠎私人房间_整洁
+privateroom_curtness_night	᠎私人房间_附件_右侧
+privateroom_silent	᠎私人房间_借出
+privateroom_silent_night	᠎私人房间_长度_右侧
+mybedroomif	᠎我的卧室
+mybedroomif_night	᠎我的卧室
+mybedroomif_nightoff	᠎我的卧室
+privateroom_ladylike	᠎私房式公寓
+privateroom_ladylike_night	᠎私人房间_停车场_右侧
+privateroom_missy	᠎私人房间_米西
+privateroom_missy_night	᠎私人房间_午夜
+largeizakaya	᠎拉吉扎卡亚
+privateroom_secretary	᠎私人房间_秘书
+privateroom_secretary_night	᠎私人房间_安全夜
+sexualtorturebasement_clean	᠎性虐待-清洁
+sexualtorturebasement	᠎性虐待
+Salon Day	᠎沙龙日
+Master\'s Room (Night)	᠎大师室（夜间）
+Playroom	᠎游戏室
+SM Room	᠎SM室
+Playroom 2	᠎游戏室2
+Courtyard	᠎庭院
+Large Bathroom	᠎大型浴室
+Maid Room	᠎女仆室
+Oiran Style Room	᠎Oiran风格客房
+Penthouse	᠎顶层公寓
+Town	᠎镇
+Salon Entrance	᠎沙龙入口
+Office 2 (Chair)	᠎办公室2（主席）
+Office 2 (Chair Night)	᠎办公室2（椅子之夜）
+Dressing Room	᠎更衣室
+Study	᠎学习
+Study (Night)	᠎学习（夜间）
+Bar	᠎酒吧
+Karaoke Room	᠎卡拉OK室
+Game Shop	᠎游戏商店
+Music Shop	᠎音乐商店
+Live Stage (On)	᠎现场舞台（打开）
+Classroom (No Desks)	᠎教室（无课桌）
+Pure Room	᠎洁净室
+Pure Room (Night)	᠎净室（夜间）
+Serious Room	᠎严肃的房间
+Serious Room (Night)	᠎严肃房间（夜间）
+Rindere Room	᠎Rindere室
+Rindere Room (Night)	᠎Rindere房间（夜间）
+Bookworm Room	᠎书虫室
+Bookworm Room (Night)	᠎书虫室（夜间）
+Koakuma Room	᠎Koakuma房间
+Koakuma Room (Night)	᠎Koakuma客房（夜间）
+Yandere Room	᠎Yandere室
+Yandere Room (Night)	᠎Yandere客房（夜间）
+Oneechan Room	᠎Oneechan房间
+Oneechan Room (Night)	᠎Oneechan客房（夜间）
+Genki Room	᠎Genki室
+Genki Room (Night)	᠎Genki客房（夜间）
+Sadist Room	᠎虐待狂室
+Sadist Room (Night)	᠎虐待狂室（夜间）
+Anesan Room	᠎Anesan室
+Anesan Room (Night)	᠎Anesan客房（夜间）
+Secretary Room	᠎秘书室
+Secretary Room (Night)	᠎秘书室（夜间）
+Imouto Room	᠎Imouto房间
+Imouto Room (Night)	᠎Imouto房间（夜间）
+Wary Room	᠎Wary室
+Wary Room (Night)	᠎Wary Room（夜间）
+Ojou Room	᠎Ojou房间
+Ojou Room (Night)	᠎Ojou房间（夜间）
+Osanajimi Room	᠎Osanajimi房间
+Osanajimi Room (Night)	᠎Osanajimi客房（夜间）
+Innocence Room	᠎无罪审判室
+Innocence Room (Night)	᠎无罪室（夜间）
+Kuudere Room	᠎Kuudere室
+Kuudere Room (Night)	᠎Kuudere房间（夜间）
+Tsundere	᠎傲娇
+Tsundere (Night)	᠎Tsundere（夜间）
+Furniture	家具
+Casino	赌场
+

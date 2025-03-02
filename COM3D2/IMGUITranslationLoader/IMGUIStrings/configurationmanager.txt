@@ -1,0 +1,843 @@
+;Enabled			启用
+;Disabled			禁用
+Plugin / mod settings		插件/模组设置
+Show: 				显示
+Normal settings			正常设置
+Keyboard shortcuts			键盘快捷键
+Advanced settings			高级设置
+Debug mode			调试模式
+Log				日志
+Search settings: 			搜索设置: 
+Clear				清除
+Tip: Click plugin names to expand. Click setting and group names to see their descriptions.			提示：单击插件名称以展开。单击设置和组名称以查看其描述。
+Expand				展开
+IsGear
+Reset				重置
+UIKey
+General				通用
+Language File			语言文件
+Config				配置
+EyeToCam			眼看相机
+Keypad Period			键盘周期
+None				无
+Backspace			退格
+Tab
+Return				返回
+Pause				暂停
+Escape
+Space				空格
+Exclaim				
+Double Quote			双引号
+Hash
+Dollar				钱号
+Ampersand			与号
+Quote				引号
+Left Paren			左括号
+Right Paren			右括号
+Asterisk				星号
+Plus				加号
+Comma				逗号
+Minus				减号
+Period
+Slash				斜杠
+Alpha0
+Alpha1
+Alpha2
+Alpha3
+Alpha4
+Alpha5
+Alpha6
+Alpha7
+Alpha8
+Alpha9
+Colon				冒号
+Semicolon			分号
+Less				小于号
+Equals				等于
+Greater				大于号
+Question				问号
+At				@
+Left Bracket			左括号
+Backslash				反斜杠
+Right Bracket			右括号
+Caret				插入
+Underscore			下划线
+Back Quote			反引号
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Delete				删除
+Keypad0				小键盘0
+Keypad1				小键盘1
+Keypad2				小键盘2
+Keypad3				小键盘3
+Keypad4				小键盘4
+Keypad5				小键盘5
+Keypad6				小键盘6
+Keypad7				小键盘7
+Keypad8				小键盘8
+Keypad9				小键盘9
+Keypad Divide			小键盘除号
+Keypad Multiply			小键盘乘号
+Keypad Minus			小键盘减号
+Keypad Plus			小键盘加号
+Keypad Enter			小键盘回车
+Keypad Equals			小键盘等号
+Up Arrow				上箭头
+Down Arrow			下箭头
+Right Arrow			右箭头
+Left Arrow			左箭头
+Insert				插入
+Home
+End
+Page Up
+Page Down
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+F10
+F11
+F12
+F13
+F14
+F15
+Numlock				数字锁定
+Caps Lock			大写锁定
+Scroll Lock			滚动锁定
+Right Shift			右Shift
+Left Shift				左Shift
+Right Control			右Control		
+Left Control			左Control
+Right Alt				右Alt
+Left Alt				左Alt
+Right Apple			右Apple
+Left Command			左Command
+Left Windows			左Windows
+Right Windows			右Apple
+Alt Gr
+Help
+Print
+Sys Req
+Break
+Menu
+Mouse0				鼠标0
+Mouse1				鼠标1
+Mouse2				鼠标2
+Mouse3				鼠标3
+Mouse4				鼠标4
+Mouse5				鼠标5
+Mouse6				鼠标6
+Joystick Button0
+Joystick Button1
+Joystick Button2
+Joystick Button3
+Joystick Button4
+Joystick Button5
+Joystick Button6
+Joystick Button7
+Joystick Button8
+Joystick Button9
+Joystick Button10
+Joystick Button11
+Joystick Button12
+Joystick Button13
+Joystick Button14
+Joystick Button15
+Joystick Button16
+Joystick Button17
+Joystick Button18
+Joystick Button19
+Joystick1 Button0
+Joystick1 Button1
+Joystick1 Button2
+Joystick1 Button3
+Joystick1 Button4
+Joystick1 Button5
+Joystick1 Button6
+Joystick1 Button7
+Joystick1 Button8
+Joystick1 Button9
+Joystick1 Button10
+Joystick1 Button11
+Joystick1 Button12
+Joystick1 Button13
+Joystick1 Button14
+Joystick1 Button15
+Joystick1 Button16
+Joystick1 Button17
+Joystick1 Button18
+Joystick1 Button19
+Joystick2 Button0
+Joystick2 Button1
+Joystick2 Button2
+Joystick2 Button3
+Joystick2 Button4
+Joystick2 Button5
+Joystick2 Button6
+Joystick2 Button7
+Joystick2 Button8
+Joystick2 Button9
+Joystick2 Button10
+Joystick2 Button11
+Joystick2 Button12
+Joystick2 Button13
+Joystick2 Button14
+Joystick2 Button15
+Joystick2 Button16
+Joystick2 Button17
+Joystick2 Button18
+Joystick2 Button19
+Joystick3 Button0
+Joystick3 Button1
+Joystick3 Button2
+Joystick3 Button3
+Joystick3 Button4
+Joystick3 Button5
+Joystick3 Button6
+Joystick3 Button7
+Joystick3 Button8
+Joystick3 Button9
+Joystick3 Button10
+Joystick3 Button11
+Joystick3 Button12
+Joystick3 Button13
+Joystick3 Button14
+Joystick3 Button15
+Joystick3 Button16
+Joystick3 Button17
+Joystick3 Button18
+Joystick3 Button19
+Joystick4 Button0
+Joystick4 Button1
+Joystick4 Button2
+Joystick4 Button3
+Joystick4 Button4
+Joystick4 Button5
+Joystick4 Button6
+Joystick4 Button7
+Joystick4 Button8
+Joystick4 Button9
+Joystick4 Button10
+Joystick4 Button11
+Joystick4 Button12
+Joystick4 Button13
+Joystick4 Button14
+Joystick4 Button15
+Joystick4 Button16
+Joystick4 Button17
+Joystick4 Button18
+Joystick4 Button19
+Joystick5 Button0
+Joystick5 Button1
+Joystick5 Button2
+Joystick5 Button3
+Joystick5 Button4
+Joystick5 Button5
+Joystick5 Button6
+Joystick5 Button7
+Joystick5 Button8
+Joystick5 Button9
+Joystick5 Button10
+Joystick5 Button11
+Joystick5 Button12
+Joystick5 Button13
+Joystick5 Button14
+Joystick5 Button15
+Joystick5 Button16
+Joystick5 Button17
+Joystick5 Button18
+Joystick5 Button19
+Joystick6 Button0
+Joystick6 Button1
+Joystick6 Button2
+Joystick6 Button3
+Joystick6 Button4
+Joystick6 Button5
+Joystick6 Button6
+Joystick6 Button7
+Joystick6 Button8
+Joystick6 Button9
+Joystick6 Button10
+Joystick6 Button11
+Joystick6 Button12
+Joystick6 Button13
+Joystick6 Button14
+Joystick6 Button15
+Joystick6 Button16
+Joystick6 Button17
+Joystick6 Button18
+Joystick6 Button19
+Joystick7 Button0
+Joystick7 Button1
+Joystick7 Button2
+Joystick7 Button3
+Joystick7 Button4
+Joystick7 Button5
+Joystick7 Button6
+Joystick7 Button7
+Joystick7 Button8
+Joystick7 Button9
+Joystick7 Button10
+Joystick7 Button11
+Joystick7 Button12
+Joystick7 Button13
+Joystick7 Button14
+Joystick7 Button15
+Joystick7 Button16
+Joystick7 Button17
+Joystick7 Button18
+Joystick7 Button19
+Joystick8 Button0
+Joystick8 Button1
+Joystick8 Button2
+Joystick8 Button3
+Joystick8 Button4
+Joystick8 Button5
+Joystick8 Button6
+Joystick8 Button7
+Joystick8 Button8
+Joystick8 Button9
+Joystick8 Button10
+Joystick8 Button11
+Joystick8 Button12
+Joystick8 Button13
+Joystick8 Button14
+Joystick8 Button15
+Joystick8 Button16
+Joystick8 Button17
+Joystick8 Button18
+Joystick8 Button19
+FOV			视野
+FOVChange		改变视野
+FOVReset		重置视野
+Modifier
+MoveBackward		后退
+MoveDown		下移
+MoveForward		前移
+MoveLeft			左移
+MoveRate		移动率
+MoveRight		右移
+MoveUp			上移
+Screenshot		截图
+SpinRate			旋转率
+ToggleFine		精细切换
+ZoomIn			放大
+ZoomOut			缩小
+Character presets		字符预设
+History			历史
+Ignore case		忽略大小写
+Max history entries		最大历史条目
+Search all terms		搜索所有术语
+Item presets		项目预设
+Item type filter		项目过滤器
+A L L			所有
+V A N I L L A		原版
+C O M P A T		兼容
+M O D			模组
+Search localized
+Search MTL
+Search text mode
+N A M E			名称
+D E S C R I P T I O N	描述
+F I L E N A M E		文件名
+D I R E C T O R Y N A M E		文件夹名
+Send MTL
+Items			物品
+;0: Body			0:身体
+;0: Enable			0:启用
+1: Change RimPower
+2: RimPower
+3: Change RimShift
+4: RimShift
+5: Change RimLighting Color
+6: Alpha
+7: Red
+8: Green
+9: Blue
+A: Change Outline Width
+B: Outline Width
+C: Enforce Colorable Outline Shaders
+D: Change Outline Color
+E: Alpha
+G: Green
+G: Red
+H: Blue
+I: Change Toon Ramp
+J: Toon Ramp
+K: Change Shadow Toon Ramp
+L: Shadow Toon Ramp
+M: Change Shadow Casting
+N: Cast Shadow
+O: Change Shadow Recieving
+P: Shadow Recieving
+Q: Change Shadow Color
+R: Alpha
+S: Red
+T: Green
+U: Blue
+1: Head
+2: Hair
+3: Clothes
+4: Acc
+5: Backgrounds
+6: Props
+7: MPS Loaded Props
+Toggle shortcut
+ADVKagManager
+baseKagManager
+OnScenarioLoadEvent.Log
+DLLKagScript
+All.Log
+FinishFile Log
+LoadScenarioString.Log
+LoadScriptFile.Log
+Tag Log
+DLLTJSScript
+GameUty
+KagScript
+Exec Log
+TagCall Log
+Maid
+EyeToCamera.Log
+SetProp.Log
+plugin
+isEnabled
+ScenePrivateEventModeAwake
+ScriptManager
+EvalScript.Log
+ReplacePersonal.Log
+ScriptManagerFast
+BaseKagManagerFast.jump.log
+BaseKagManagerFast.LoadScript.log
+Status
+SetFlag.Log
+TJSScript
+YotogiPlayManager
+YotogiSkillSystem
+Enable Resize
+Load Raw Images (Experimental)
+Autosave
+Max Number of Autosaves Kept
+Save Interval
+Show Autosave Text
+Use Autosaves
+Save As By Default
+Save Modifier
+LeftControl
+UI
+UI Height Multiplier (Requires Restart)
+UI Width Multiplier (Requires Restart)
+Basic Settings
+DebugLog
+Fine Tuning
+DriftDirectionRange
+DriftSpeed
+DriftSpeedStdDev
+MaxOffsetAngle
+MSaccadeDirectionDev
+MSaccadeInterval
+MSaccadeIntervalStdDev
+MSaccadeOvershootDev
+MSaccadeSpeed
+MSaccadeSpeedStdDev
+PointOfInterest
+DebugRay
+FarClip
+NearClip
+TransferCheckInterval
+TransferCheckStdDev
+FPS
+FPSTarget
+Mute In Background
+Hotkeys
+Show FPS counter
+I + LeftShift
+Enable
+Enable monitoring plugins
+Show detailed frame stats
+Show memory and GC stats
+Toggle counter and reset stats
+U + LeftShift
+Interface
+Color of the text
+White
+Black
+Outline
+Screen position
+Lower Right
+Upper Left
+Upper Center
+Upper Right
+Middle Left
+Middle Center
+Middle Right
+Lower Left
+Lower Center
+1. Max Deformation
+2. Autosave
+Hotkey
+1. Enable Hotkey
+2. Hotkey
+1. Simple Mode
+2. Hide Inactive Maids
+3. Entries Per Page
+Key To Activate
+LeftShift
+Key To Activate 2
+LeftShift + LeftControl
+Add 10,000 to Mod Item Priority
+Append Menu file Names to Descriptions
+Mutex Timeout Limit
+Time Between Breaks in Seconds
+Whether to use the IconPreloader for mod files.
+Auto hide
+Auto show in VR
+Auto show outside VR
+Shortcut
+Not set
+Verbose log
+Plugin
+Scene settings
+Auto show in all scenes
+Auto show in yotogi
+Keep yotogi undress state
+Entrypoint
+Assembly
+Method
+Type
+Paths
+UnityInjector
+GUI
+isGUIOn
+isLog
+isOpen
+sort key
+BackQuote + LeftAlt
+space B
+space L
+space R
+space T
+vGUISortDH
+vGUISortDW
+vGUISortX
+vGUISortY
+x
+y
+Diagnostics
+Log all loaded resources
+Log callback order
+BepInEx 5.4.19.0
+Caching
+EnableAssemblyCache
+Chainloader
+HideManagerGameObject
+Harmony.Logger
+LogChannels
+Info
+IL
+Warn
+Error
+Debug
+All
+Logging
+LogConsoleToUnityLog
+UnityLogListening
+Logging.Console
+LogLevels
+Fatal
+Warning
+Message
+PreventClose
+ShiftJisEncoding
+StandardOutType
+Auto
+Console Out
+Standard Out
+Logging.Disk
+AppendLog
+WriteUnityLog
+Preloader
+ApplyRuntimePatches
+BreakBeforeLoadAssemblies
+DumpAssemblies
+HarmonyBackend
+DynamicMethod
+MethodBuilder
+Cecil
+LoadDumpedAssemblies
+Preloader.Entrypoint
+Show: 
+Search settings: 
+
+
+
+
+
+
+頭			头
+髪			头发
+身体			身体
+服装			服装
+アクセサリ		配饰
+セット			套装
+プリセット		预设
+全て			全部
+選択中			选择中
+設定			设定
+顔			脸
+眉			眉毛
+目			眼睛
+目ハイライト		眼睛高光
+ほくろ			痣
+唇			嘴唇
+歯			牙齿
+フィルタ：		过滤器：
+お気に入り		收藏夹
+帽子			帽子
+ヘッドドレス		头饰
+トップス			上装
+ボトムス			下装
+ワンピース		连衣裙
+水着			泳装
+ブラジャー		胸罩
+パンツ			内裤
+靴下			袜子
+靴			鞋子
+服 / 身体			衣服/身体
+服			衣服
+体			身体
+メイド服			女仆装
+コスチューム		服装
+下着			内衣
+肌			皮肤
+前髪			前发
+メガネ			眼镜
+アイマスク		眼罩
+鼻			鼻子
+耳			耳朵
+手袋			手套
+ネックレス		项链
+チョーカー		项圈
+リボン			丝带
+乳首　			乳头
+腕			手腕
+へそ			肚脐
+足首			脚踝
+背中			后背
+しっぽ			尾巴
+前穴			小穴
+肌			皮肤
+乳首			乳头
+タトゥー			纹身
+アンダーヘア		阴毛
+ボディ			身体
+前髪			前发
+後髪			后发
+横髪			侧发
+エクステ髪		假发
+エクステ毛		假发
+アホ毛			呆毛
+アクセ：前髪		配饰：前发
+アクセ：左耳		配饰：左耳
+アクセ：右耳		配饰：右耳
+アクセ：ネックレス		配饰：项链
+アクセ：チョーカー		配饰：项圈
+アクセ：左リボン		配饰：左侧丝带
+アクセ：右リボン		配饰：右侧丝带
+アクセ：腕		配饰：手腕
+アクセ：前穴		配饰：前穴
+アクセ：手袋		配饰：手套
+アクセ：左耳		配饰：左耳
+アクセ：右耳		配饰：右耳
+アクセ：腕		配饰：手腕
+歯			牙齿
+アンダーヘア		阴毛
+ヘッドドレス		头饰
+水着			泳装
+アクセ：前髪：左		配饰：前髪：左	
+アクセ：前髪：右		配饰：前髪：右
+アクセ：メガネ		配饰：眼镜
+アクセ：アイマスク		配饰：眼罩
+アクセ：手袋		配饰：手套
+アクセ：鼻		配饰：鼻子
+アクセ：左乳首		配饰：左乳头
+アクセ：右乳首		配饰：右乳头
+アクセ：へそ		配饰：肚脐
+アクセ：足首		配饰：脚踝
+アクセ：背中		配饰：后背
+アクセ：しっぽ		配饰：尾巴
+精液：中			精液：中
+精液：腹			精液：腹
+精液：顔			精液：顔
+精液：胸			精液：胸
+精液：尻			精液：臀
+精液：腕			精液：手
+精液：足			精液：脚
+手持アイテム：左		手持物品：左
+手持アイテム：右		手持物品：右
+拘束具：上		拘束具：上
+拘束具：下		拘束具：上
+アナルバイブ		肛门振动棒
+バイブ			振动棒
+チ○コ			鸡鸡
+ピンクバイブ		粉红色振动棒
+黒バイブ			黑色振动棒
+大黒バイブ		大黑色振动棒
+アナルバイブ		肛门振动棒
+
+body			身体
+head			头
+eye			眼镜
+all			全部
+wear			上衣
+skirt			裙子
+onepiece			连衣裙
+mizugi			泳装
+panz			内裤
+bra			胸罩
+stkg			袜子
+shoes			鞋子
+headset			头饰
+glove			手套
+hairf			前发
+hairr			后发
+hairs			侧发
+hairt			假发
+hairaho			呆毛
+acchead			头配饰
+acchana			鼻配饰
+accha			牙配饰
+acckami_1_		配饰头发_1_
+acckami_2_		配饰头发_2_
+acckami_3_		配饰头发_3_
+accmimir			右耳配饰
+accmimil			左耳配饰
+acckamisubr		配饰发带右
+acckamisubl		配饰发带左
+acckamisub		配饰发带
+acckami			头发配饰
+accnip			乳头配饰
+accnipr			右乳头配饰
+accnipl			左乳头配饰
+handitemr		右手物品
+handiteml		左手物品
+acckubi			配饰项链
+acckubiwa		配饰项圈
+accheso			肚脐配饰
+accude			手腕配饰
+accashi			脚配饰
+accsenaka		背部配饰
+accshippo		配饰尾巴
+accanl			屁眼配饰
+accvag			小穴配饰
+kubiwa			项圈
+megane			眼镜
+accxxx			阴蒂配饰
+chikubi			乳头
+chikubicolor		乳头颜色
+chinko			鸡鸡
+acchat			配饰帽子
+kousoku_upper		拘束具_上
+kousoku_lower		拘束具_下
+underhair			底发
+seieki			精液
+seieki_naka		精液_中
+seieki_hara		精液_腹
+seieki_face		精液_顔
+seieki_mune		精液_胸
+seieki_hip			精液_臀
+seieki_ude		精液_手
+seieki_ashi		精液_脚
+moza			马赛克
+
+Body			身体
+Head			头
+Eye			眼镜
+All			全部
+Wear			上衣
+Skirt			裙子
+Onepiece			连衣裙
+Mizugi			泳装
+Panz			内裤
+Bra			胸罩
+Stkg			袜子
+Shoes			鞋子
+Headset			头饰
+Glove			手套
+hairF			前发
+hairR			后发	
+hairS			侧发
+hairT			假发
+hairAho			呆毛
+accHead			头配饰
+accHana			鼻配饰
+accHa			牙配饰
+accKami_1_		配饰头发_1_
+accKami_2_		配饰头发_2_
+accKami_3_		配饰头发_3_
+accMiMiR			右耳配饰
+accMiMiL			左耳配饰
+accKami			头发配饰
+accKamiSubR		配饰发带右
+accKamiSubL		配饰发带左
+accKamiSub		配饰发带
+accNipR			右乳头
+accNipL			左乳头配饰
+HandItemR		右手物品
+HandItemL		左手物品
+accKubi			配饰项链
+accKubiwa		配饰项圈
+accHeso			肚脐配饰
+accUde			手腕配饰
+accAshi			脚配饰
+accSenaka		背部配饰
+accShippo		配饰尾巴
+accAnl			屁眼配饰
+accVag			小穴配饰
+kubiwa			项圈
+megane			眼镜
+accXXX			阴蒂配饰
+chikubi			乳头
+chinko			鸡鸡
+accHat			配饰帽子
+kousoku_upper		拘束具_上
+kousoku_lower		拘束具_下
+underhair			底发
+seieki			精液
+seieki_naka		精液_中
+seieki_hara		精液_腹
+seieki_face		精液_顔
+seieki_mune		精液_胸
+seieki_hip			精液_臀
+seieki_ude		精液_手
+seieki_ashi		精液_脚
+moza			马赛克

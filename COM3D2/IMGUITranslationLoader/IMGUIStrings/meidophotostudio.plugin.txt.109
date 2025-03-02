@@ -1,0 +1,459 @@
+Call	调出
+Pose	姿势
+Face	表情
+Env	环境
+Props	道具
+Horizontal Row	平行一列
+OK
+Clear	全部清除
+Active Only	
+Settings	设置
+Edit	可调整
+IK	IK（反向动力学）
+Release	解除IK
+Bone	操作点
+F-Look	脸朝向锁定
+Save Pose	保存姿势
+Look X	脸朝向X轴调整
+Look Y	脸朝向Y轴调整
+Bind	朝向镜头
+Eye	眼
+Head	脸
+SM Restraints	SM道具
+Arm Binder	手臂环
+Attach	装备
+Detach	取下
+Detach All	全部取下
+Detailed Clothing	详细调整衣服
+All	全穿
+Underwear	只穿内衣
+Nude	全裸
+Top	上衣
+Bottoms	下装
+Bra	胸罩
+Panties	内裤
+Headwear	头饰
+Eyewear	眼镜
+Arms	手部
+Gloves	手套
+Back	背后
+Socks	袜子
+Shoes	鞋子
+Body	肉体
+Curl Front	撩起前裙
+Curl Rear		撩起后裙
+Shift	移开内裤
+Hand Preset	手势预设
+Save Hand	保存手势
+Hand Presets	手势存档
+No Hand Presets	无手势存档
+Right	右手
+Left	左手
+Gravity Control	重力将影响该女仆的
+Hair	头发
+Skirt	裙子
+Global	全局
+Copy IK	复制IK
+No Maids	无女仆
+Copy	复制
+Flip IK	IK翻转
+Flip	翻转
+General	一般
+Eye Shut	闭眼
+Eye Smile	笑眼
+Glare
+Eyes Widen	睁大眼睛
+Wink Smile
+Wink Shut
+Highlight
+Pupil Size
+Brows Angle
+Brows Sad
+Brows Up
+Brows Angry 1
+Brows Angry 2
+Mouth Open 1
+Mouth Open 2
+Mouth Narrow
+Mouth Widen
+Smile
+Frown
+Pout
+Grin
+Tongue Out
+Tongue Up
+Tongue Base
+Blush
+Shade
+Nose Up
+Tears
+Drool
+Teeth
+Cry 1
+Cry 2
+Cry 3
+Blush 1
+Blush 2
+Blush 3
+Save
+Manage Scenes
+Theater
+Movement Cube
+Small
+Maid
+BG
+Camera
+2
+3
+4
+5
+Z Rotation
+|
+FOV
+Lights
+Main
++
+Del
+Spot
+Point
+Hide BG
+Light X
+Light Y
+Brightness
+Shadow
+Red
+Green
+Blue
+Reset
+Properties
+Position
+Effects
+
+90135翻译-于GITHUB免费发布
+https://github.com/90135/COM3D2_Plugin_Translate_Chinese
+
+Bloom
+DOF
+Blur
+Fog
+On
+Reset Effect
+Intensity
+HDR
+Sepia
+MyRoom
+Mods
+Furniture
+Kuudere Chair
+Manage Props
+No Props
+Cube
+Gizmo
+Delete
+Attach Point
+Keep World Position
+Neck
+Shoulder R
+Spine 1
+Shoulder L
+Elbow R
+Spine 2
+Elbow L
+Mune R
+Spine 3
+Mune L
+Hand R
+Spine 4
+Hand L
+Thigh R
+Pelvis
+Thigh L
+Knee R
+Knee L
+Foot R
+Foot L
+Controls
+Activate MPS
+F6
+×
+Screenshot
+S
+Hide/Show UI
+Tab
+Message Box
+M
+Maids
+Undressing
+H
+Camera Layer
+Q
+Reset Camera
+R
+Save Camera
+Load Camera
+A
+Drag Handles
+Select
+D
+Move
+Z
+Rotate
+X
+Scale
+C
+Show Fingers
+Space
+Scene Management
+Quick Save
+Quick Load
+Open Scene Manager
+F8
+Reload Translation
+Reload Presets
+Close
+
+
+
+
+
+
+
+
+頭			头
+髪			头发
+身体			身体
+服装			服装
+アクセサリ		配饰
+セット			套装
+プリセット		预设
+全て			全部
+選択中			选择中
+設定			设定
+顔			脸
+眉			眉毛
+目			眼睛
+目ハイライト		眼睛高光
+ほくろ			痣
+唇			嘴唇
+歯			牙齿
+フィルタ：		过滤器：
+お気に入り		收藏夹
+帽子			帽子
+ヘッドドレス		头饰
+トップス			上装
+ボトムス			下装
+ワンピース		连衣裙
+水着			泳装
+ブラジャー		胸罩
+パンツ			内裤
+靴下			袜子
+靴			鞋子
+服 / 身体			衣服/身体
+服			衣服
+体			身体
+メイド服			女仆装
+コスチューム		服装
+下着			内衣
+肌			皮肤
+前髪			前发
+メガネ			眼镜
+アイマスク		眼罩
+鼻			鼻子
+耳			耳朵
+手袋			手套
+ネックレス		项链
+チョーカー		项圈
+リボン			丝带
+乳首　			乳头
+腕			手腕
+へそ			肚脐
+足首			脚踝
+背中			后背
+しっぽ			尾巴
+前穴			小穴
+肌			皮肤
+乳首			乳头
+タトゥー			纹身
+アンダーヘア		阴毛
+ボディ			身体
+前髪			前发
+後髪			后发
+横髪			侧发
+エクステ髪		假发
+エクステ毛		假发
+アホ毛			呆毛
+アクセ：前髪		配饰：前发
+アクセ：左耳		配饰：左耳
+アクセ：右耳		配饰：右耳
+アクセ：ネックレス		配饰：项链
+アクセ：チョーカー		配饰：项圈
+アクセ：左リボン		配饰：左侧丝带
+アクセ：右リボン		配饰：右侧丝带
+アクセ：腕		配饰：手腕
+アクセ：前穴		配饰：前穴
+アクセ：手袋		配饰：手套
+アクセ：左耳		配饰：左耳
+アクセ：右耳		配饰：右耳
+アクセ：腕		配饰：手腕
+歯			牙齿
+アンダーヘア		阴毛
+ヘッドドレス		头饰
+水着			泳装
+アクセ：前髪：左		配饰：前髪：左	
+アクセ：前髪：右		配饰：前髪：右
+アクセ：メガネ		配饰：眼镜
+アクセ：アイマスク		配饰：眼罩
+アクセ：手袋		配饰：手套
+アクセ：鼻		配饰：鼻子
+アクセ：左乳首		配饰：左乳头
+アクセ：右乳首		配饰：右乳头
+アクセ：へそ		配饰：肚脐
+アクセ：足首		配饰：脚踝
+アクセ：背中		配饰：后背
+アクセ：しっぽ		配饰：尾巴
+精液：中			精液：中
+精液：腹			精液：腹
+精液：顔			精液：顔
+精液：胸			精液：胸
+精液：尻			精液：臀
+精液：腕			精液：手
+精液：足			精液：脚
+手持アイテム：左		手持物品：左
+手持アイテム：右		手持物品：右
+拘束具：上		拘束具：上
+拘束具：下		拘束具：上
+アナルバイブ		肛门振动棒
+バイブ			振动棒
+チ○コ			鸡鸡
+ピンクバイブ		粉红色振动棒
+黒バイブ			黑色振动棒
+大黒バイブ		大黑色振动棒
+アナルバイブ		肛门振动棒
+
+body			身体
+head			头
+eye			眼镜
+all			全部
+wear			上衣
+skirt			裙子
+onepiece			连衣裙
+mizugi			泳装
+panz			内裤
+bra			胸罩
+stkg			袜子
+shoes			鞋子
+headset			头饰
+glove			手套
+hairf			前发
+hairr			后发
+hairs			侧发
+hairt			假发
+hairaho			呆毛
+acchead			头配饰
+acchana			鼻配饰
+accha			牙配饰
+acckami_1_		配饰头发_1_
+acckami_2_		配饰头发_2_
+acckami_3_		配饰头发_3_
+accmimir			右耳配饰
+accmimil			左耳配饰
+acckamisubr		配饰发带右
+acckamisubl		配饰发带左
+acckamisub		配饰发带
+acckami			头发配饰
+accnip			乳头配饰
+accnipr			右乳头配饰
+accnipl			左乳头配饰
+handitemr		右手物品
+handiteml		左手物品
+acckubi			配饰项链
+acckubiwa		配饰项圈
+accheso			肚脐配饰
+accude			手腕配饰
+accashi			脚配饰
+accsenaka		背部配饰
+accshippo		配饰尾巴
+accanl			屁眼配饰
+accvag			小穴配饰
+kubiwa			项圈
+megane			眼镜
+accxxx			阴蒂配饰
+chikubi			乳头
+chikubicolor		乳头颜色
+chinko			鸡鸡
+acchat			配饰帽子
+kousoku_upper		拘束具_上
+kousoku_lower		拘束具_下
+underhair			底发
+seieki			精液
+seieki_naka		精液_中
+seieki_hara		精液_腹
+seieki_face		精液_顔
+seieki_mune		精液_胸
+seieki_hip			精液_臀
+seieki_ude		精液_手
+seieki_ashi		精液_脚
+moza			马赛克
+
+Body			身体
+Head			头
+Eye			眼镜
+All			全部
+Wear			上衣
+Skirt			裙子
+Onepiece			连衣裙
+Mizugi			泳装
+Panz			内裤
+Bra			胸罩
+Stkg			袜子
+Shoes			鞋子
+Headset			头饰
+Glove			手套
+hairF			前发
+hairR			后发	
+hairS			侧发
+hairT			假发
+hairAho			呆毛
+accHead			头配饰
+accHana			鼻配饰
+accHa			牙配饰
+accKami_1_		配饰头发_1_
+accKami_2_		配饰头发_2_
+accKami_3_		配饰头发_3_
+accMiMiR			右耳配饰
+accMiMiL			左耳配饰
+accKami			头发配饰
+accKamiSubR		配饰发带右
+accKamiSubL		配饰发带左
+accKamiSub		配饰发带
+accNipR			右乳头
+accNipL			左乳头配饰
+HandItemR		右手物品
+HandItemL		左手物品
+accKubi			配饰项链
+accKubiwa		配饰项圈
+accHeso			肚脐配饰
+accUde			手腕配饰
+accAshi			脚配饰
+accSenaka		背部配饰
+accShippo		配饰尾巴
+accAnl			屁眼配饰
+accVag			小穴配饰
+kubiwa			项圈
+megane			眼镜
+accXXX			阴蒂配饰
+chikubi			乳头
+chinko			鸡鸡
+accHat			配饰帽子
+kousoku_upper		拘束具_上
+kousoku_lower		拘束具_下
+underhair			底发
+seieki			精液
+seieki_naka		精液_中
+seieki_hara		精液_腹
+seieki_face		精液_顔
+seieki_mune		精液_胸
+seieki_hip			精液_臀
+seieki_ude		精液_手
+seieki_ashi		精液_脚
+moza			马赛克
