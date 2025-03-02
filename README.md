@@ -13,6 +13,9 @@ IMGUI 就是半透明的黑色窗口。
 
 有没翻译或是想添加的插件，欢迎反馈或直接贡献翻译，本汉化最初发布于 ZODGAME。
 
+<br>
+<br>
+
 ## 使用方法
 
 1. 安装 IMGUITranslationLoader
@@ -42,6 +45,9 @@ IMGUI 就是半透明的黑色窗口。
 
 启用后就会无视插件限制，无论什么插件，只要有相同字符串就能翻译，但也可能造成问题。
 
+<br>
+<br>
+
 ## 常见问题
 
 ### CM3D2 能用吗
@@ -60,6 +66,9 @@ IMGUI 就是半透明的黑色窗口。
 注意不要用 `turtle_formatter.exe` 处理，否则会被删掉。
 在 `AutoTranslatorConfig.ini` 里面设置 `EnableIMGUI=false` 就好
 
+<br>
+<br>
+
 ## 去哪里找插件
 
 ### CM3D2
@@ -76,6 +85,8 @@ IMGUI 就是半透明的黑色窗口。
 4. [https://www.google.com](https://www.google.com)
 COM3D2 你应该无条件使用 BepinEX。
 
+<br>
+<br>
 
 ## 我想汉化其他插件怎么办
 顾名思义，使用 IMGUI 制作的插件都可以翻译，读一读插件说明就会了，欢迎贡献到本仓库，发 PR，不会的话 发 Issue 附上文件也可以
@@ -84,6 +95,8 @@ COM3D2 你应该无条件使用 BepinEX。
 
 [https://github.com/ghorsington/IMGUITranslationLoader/blob/master/README.md](https://github.com/ghorsington/IMGUITranslationLoader/blob/master/README.md)
 
+<br>
+<br>
 
 ## 贡献
 
@@ -96,3 +109,8 @@ COM3D2 你应该无条件使用 BepinEX。
 主要是增加了一些场景、道具的机翻文本，meidophotostudio 则是以人工为主 此外，scenecapture 的场景是不能翻译的 否则会失效
 
 这些文本已合并到本包。
+
+## 许可证
+
+本仓库使用 MIT 许可证，你只需要保留署名，就可以随意更改和分发。
+
