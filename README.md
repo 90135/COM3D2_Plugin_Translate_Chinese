@@ -118,3 +118,6 @@ COM3D2 你应该无条件使用 BepinEX。
 
 本仓库使用 MIT 许可证，你只需要保留署名，就可以随意更改和分发。
 
+本仓库地址 [https://github.com/90135/COM3D2_Plugin_Translate_Chinese](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
+
+
