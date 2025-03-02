@@ -1,6 +1,4 @@
-# COM3D2_Plugin_Translate_Chinese
-COM3D2 中文插件翻译 / COM3D2 Chinese plugin translation
-
+# COM3D2 插件中文翻译
 
 这是 COM3D2 的 IMGUI 插件的中文翻译，本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件。
 
