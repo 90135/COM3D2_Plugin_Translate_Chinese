@@ -2,7 +2,7 @@
 
 这是 COM3D2 的 IMGUI 插件的中文翻译，本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件。
 
-IMGUI 就是半透明的黑色窗口。
+IMGUI 就是插件的半透明黑色窗口。
 
 ```
 手动翻译，但本人非专业，看不懂的就结合机翻了。
@@ -100,7 +100,22 @@ COM3D2 你应该无条件使用 BepinEX。
 <br>
 <br>
 
-## 贡献
+## 图片
+
+![图片](https://github.com/user-attachments/assets/46c2ea63-14d2-4eb7-a7ab-210d2d2cafd8)
+![图片](https://github.com/user-attachments/assets/b5d6f30f-4218-44bf-a22c-591dc3d652d2)
+
+
+<br>
+<br>
+
+## 也可以看看我的其他仓库
+
+ - [COM3D2 简明 MOD 教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
+ - [COM3D2 MOD 编辑器](https://github.com/90135/COM3D2_MOD_EDITOR)
+
+
+## 贡献名单
 
 杂酱 zaj2001 及其群友（未告诉我所以无法署名）补充并调整了一些插件：
  - meidophotostudio.plugin      
