@@ -1,0 +1,37 @@
+name: Release on Tag
+
+on:
+  push:
+    tags:
+      - '*'  # 监听所有标签
+
+jobs:
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 检出仓库代码
+        uses: actions/checkout@v4
+
+      - name: 设置版本变量
+        run: echo "TAG_NAME=${GITHUB_REF#refs/tags/}" >> $GITHUB_ENV
+
+      - name: 打包多个文件和文件夹
+        run: |
+          zip -r release-${{ env.TAG_NAME }}.zip \
+            COM3D2/ \
+            README.md file2.json script.js \
+            -x "folder2/exclude-this-file.txt"
+
+      - name: 创建 Release 并上传资源
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TAG_NAME }}
+          name: Release ${{ env.TAG_NAME }}
+          body: "自动生成的 Release 版本：${{ env.TAG_NAME }}"
+          draft: false
+          prerelease: false
+          files: release-${{ env.TAG_NAME }}.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
