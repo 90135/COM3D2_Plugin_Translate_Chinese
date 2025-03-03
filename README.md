@@ -113,22 +113,21 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 
 ## 常见问题
 
-### CM3D2 能用吗
+### CM3D2 能用吗？
 能，如果插件名不一样的，更改翻译文件名就行了。比如 `com3d2.vibeyourmaid.plugin.txt` 改成 `cm3d2.vibeyourmaid.plugin.txt`
 遇到一样的插件和一样的字符就会翻译。
 或者开全局模式。
 
-
-### CM3D2.5 能用吗
+### COM3D2.5 3.40.0- (unity 5.6) 能用吗？
 能，同样的，遇到不一样名字的插件 如 `com3d2_5.xxxxx.plugin` 把对应的翻译文件改一下名即可。
 遇到一样的插件和一样的字符就会翻译。
 或者开全局模式。
 
-### COM3D2.5 3.40.0+ (unity 2022)能用吗
+### COM3D2.5 3.40.0+ (unity 2022) 能用吗？
 能，但 IMGUITranslationLoader 需要使用此版本 [https://github.com/krypto5863/IMGUITranslationLoader](https://github.com/krypto5863/IMGUITranslationLoader)
 其他同 2.5 说明
 
-### XUnity.AutoTranslator 共存
+### XUnity.AutoTranslator 共存？
 注意不要用 `turtle_formatter.exe` 处理，否则会被删掉。
 在 `AutoTranslatorConfig.ini` 里面设置 `EnableIMGUI=false` 就好
 
