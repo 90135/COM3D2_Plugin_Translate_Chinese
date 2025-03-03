@@ -2,10 +2,11 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/90135/COM3D2_Plugin_Translate_Chinese/total.svg)]()
 
+本项目是 COM3D2 的 IMGUI 插件的中文翻译（插件汉化）。
 
-这是 COM3D2 的 IMGUI 插件的中文翻译，本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件。
+目前本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件，以后可能会扩展。
 
-IMGUI 就是插件的半透明黑色窗口。
+IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 
 ```
 手动翻译，但本人非专业，看不懂的就结合机翻了。
@@ -16,6 +17,63 @@ IMGUI 就是插件的半透明黑色窗口。
 
 <br>
 <br>
+
+## 插件汉化列表
+
+
+<details>
+  <summary>插件汉化列表</summary>
+
+ - com3d2.addyotogisliderse.plugin
+ - com3d2.addyotogisliderse2.plugin
+ - com3d2.alwayscolorchangeex.plugin
+ - com3d2.atcc.plugin
+ - com3d2.autoeraseoutline.plugin
+ - com3d2.backgroundscreen.plugin
+ - com3d2.changedressing.plugin
+ - com3d2.changeskirtmotion.plugin
+ - com3d2.dancecameramotion.plugin
+ - com3d2.dancestudio.plugin
+ - com3d2.dressdamage.plugin
+ - com3d2.dresspainter.plugin
+ - com3d2.dynamicboneedit.plugin
+ - com3d2.dynboneedit.plugin
+ - com3d2.editsceneundo.plugin
+ - com3d2.facecontrol.plugin
+ - com3d2.futa.plugin
+ - com3d2.halfundressing.plugin
+ - com3d2.inoutanimation.plugin
+ - com3d2.lookatonemaiddance.plugin
+ - com3d2.mancall
+ - com3d2.mtaccutil.plugin
+ - com3d2.multiplemaids.plugin
+ - com3d2.nprshader.plugin
+ - com3d2.partsedit.plugin
+ - com3d2.partseditwithstudio.plugin
+ - com3d2.passthru.plugin
+ - com3d2.poseselect
+ - com3d2.propmyitem.plugin
+ - com3d2.scenecapture.plugin
+ - com3d2.shaderchange.plugin
+ - com3d2.shapeanimator.plugin
+ - com3d2.shapeanimator_allsceneedition.plugin
+ - com3d2.skaccutil.plugin
+ - com3d2.slimeshader.plugin
+ - com3d2.smoothanimutil.plugin
+ - com3d2.variousmaidviewer.plugin
+ - com3d2.vibedancemaid.plugin
+ - com3d2.vibeyourmaid.plugin
+ - com3d2.vym_api_testsample.plugin
+ - com3d2.xtmasterslave.plugin
+ - com3d2.yotogiutil.plugin
+ - configurationmanager
+ - meidophotostudio.plugin
+</details>
+
+
+<br>
+<br>
+
 
 ## 使用方法
 
