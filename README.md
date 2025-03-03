@@ -2,7 +2,9 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/90135/COM3D2_Plugin_Translate_Chinese/total.svg)]()
 
-本项目是 COM3D2 的 IMGUI 插件的中文翻译（插件汉化）。
+本项目是 COM3D2 的插件的中文翻译（插件汉化）。 
+
+This project is the Chinese translation of the COM3D2 plugin (plugin localization).
 
 目前本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件，以后可能会扩展。
 
@@ -164,8 +166,10 @@ COM3D2 你应该无条件使用 BepinEX。
 
 ## 图片
 
-![图片](https://github.com/user-attachments/assets/46c2ea63-14d2-4eb7-a7ab-210d2d2cafd8)
-![图片](https://github.com/user-attachments/assets/b5d6f30f-4218-44bf-a22c-591dc3d652d2)
+只是随便截了两张图
+
+ <img src="https://github.com/user-attachments/assets/46c2ea63-14d2-4eb7-a7ab-210d2d2cafd8" width="50%" />
+ <img src="https://github.com/user-attachments/assets/b5d6f30f-4218-44bf-a22c-591dc3d652d2" width="50%" />
 
 
 <br>
@@ -176,18 +180,20 @@ COM3D2 你应该无条件使用 BepinEX。
  - [COM3D2 简明 MOD 教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
  - [COM3D2 MOD 编辑器](https://github.com/90135/COM3D2_MOD_EDITOR)
 
+<br>
+<br>
+
 
 ## 贡献名单
 
-杂酱 zaj2001 及其群友（未告诉我所以无法署名）补充并调整了一些插件：
+杂酱 zaj2001 及其群友（未告诉我，所以无法署名）补充并调整了一些插件：
+
  - meidophotostudio.plugin      
  - com3d2.scenecapture.plugin   
  - com3d2.multiplemaids.plugin    
  - com3d2.vibeyourmaid.plugin
 
-主要是增加了一些场景、道具的机翻文本，meidophotostudio 则是以人工为主 此外，scenecapture 的场景是不能翻译的 否则会失效
-
-这些文本已合并到本包。
+主要是增加了一些场景、道具的机翻文本，MeidoPhotoStudio 则是以人工为主此外，SceneCapture 插件的场景是不能翻译的，否则会失效。
 
 <br>
 <br>
