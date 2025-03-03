@@ -77,27 +77,28 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 
 ## 使用方法
 
+0. 登陆后点击仓库右上角的 Watch 按钮可以在更新时获得邮件提醒。
+
 1. 安装 IMGUITranslationLoader
-[https://github.com/ghorsington/IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader)
+    [https://github.com/ghorsington/IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader)
+    
+    下载 `IMGUITranslationLoader_xxxxx.7z`
+    
+    复制 `IMGUITranslationLoader.Managed.dll` 和 `IMGUITranslationLoader.Sybaris.Patcher.dll` 到 `COM3D2\Sybaris` 文件夹。
+    
+     <img src="https://github.com/user-attachments/assets/5f91581c-30e8-4a6e-9fb7-7112fe33a9cf" width="50%" />
 
-下载 `IMGUITranslationLoader_xxxxx.7z`
+3. 下载本仓库 Release 中的压缩包，或是下载源代码。
 
-复制 `IMGUITranslationLoader.Managed.dll` 和 `IMGUITranslationLoader.Sybaris.Patcher.dll` 到 `COM3D2\Sybaris` 文件夹。
-
-![图片](https://github.com/user-attachments/assets/5f91581c-30e8-4a6e-9fb7-7112fe33a9cf)
-
-
-2. 下载本仓库 Release 中的压缩包，或是下载源代码。
-
-找到对应路径
-
-把 `翻译.txt` 放到 `COM3D2\IMGUITranslationLoader\IMGUIStrings` 文件夹中，如图所示
-
-![图片](https://github.com/user-attachments/assets/a0f0a057-47ed-42d1-ac3e-90668b48cb01)
-
-3. 记得在 `COM3D2\IMGUITranslationLoader` 中的 `IMGUITranslationLoader.ini` 里设置 `Load=True` 启用（应该是会自动启用的）
-
-没有就先启动一次游戏
+    找到对应路径
+    
+    把 `翻译.txt` 放到 `COM3D2\IMGUITranslationLoader\IMGUIStrings` 文件夹中，如图所示
+    
+     <img src="https://github.com/user-attachments/assets/a0f0a057-47ed-42d1-ac3e-90668b48cb01" width="50%" />
+    
+4. 记得在 `COM3D2\IMGUITranslationLoader` 中的 `IMGUITranslationLoader.ini` 里设置 `Load=True` 启用（应该是会自动启用的）
+    
+    没有就先启动一次游戏
 
 <br>
 
@@ -194,6 +195,8 @@ COM3D2 你应该无条件使用 BepinEX。
 ## 许可证
 
 本仓库使用 MIT 许可证，你只需要保留署名，就可以随意更改和分发。
+
+分发时请最好带上本仓库地址，谢谢。
 
 本仓库地址 [https://github.com/90135/COM3D2_Plugin_Translate_Chinese](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
 
