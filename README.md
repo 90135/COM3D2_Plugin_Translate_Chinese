@@ -2,7 +2,7 @@
 
 [![Github All Releases](https://img.shields.io/github/downloads/90135/COM3D2_Plugin_Translate_Chinese/total.svg)]()
 
-本项目是 COM3D2 的插件的中文翻译（插件汉化）。 
+本项目是游戏 [COM3D2](https://com3d2.jp/)（カスタムオーダーメイド3D 2 / CUSTOM ORDER MAID 3D2）的插件的中文翻译（插件汉化）。 
 
 This project is the Chinese translation of the COM3D2 plugin (plugin localization).
 
