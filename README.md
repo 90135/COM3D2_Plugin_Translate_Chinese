@@ -1,5 +1,8 @@
 # COM3D2 插件中文翻译
 
+[![Github All Releases](https://img.shields.io/github/downloads/90135/COM3D2_Plugin_Translate_Chinese/total.svg)]()
+
+
 这是 COM3D2 的 IMGUI 插件的中文翻译，本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件。
 
 IMGUI 就是插件的半透明黑色窗口。
