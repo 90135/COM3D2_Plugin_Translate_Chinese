@@ -34,6 +34,6 @@ jobs:
           body: "自动生成的 Release 版本：${{ env.TAG_NAME }}"
           draft: false
           prerelease: false
-          files: release-${{ env.TAG_NAME }}.zip
+          files: COM3D2插件中文翻译-${{ env.TAG_NAME }}.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
