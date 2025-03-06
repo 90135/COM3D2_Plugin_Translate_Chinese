@@ -78,8 +78,9 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 
 
 ## 使用方法
+登陆后点击仓库右上角的 Watch 按钮可以在更新时获得邮件提醒。
 
-0. 登陆后点击仓库右上角的 Watch 按钮可以在更新时获得邮件提醒。
+0. 确保你已安装 BpeinEX 插件框架，如果你还没有请使用 [https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer) 来安装框架和基础插件。但是安装这个以后需要删掉自带的英文翻译。
 
 1. 安装 IMGUITranslationLoader
     [https://github.com/ghorsington/IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader)
