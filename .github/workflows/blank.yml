@@ -21,7 +21,7 @@ jobs:
 
       - name: 打包多个文件和文件夹
         run: |
-          zip -r release-${{ env.TAG_NAME }}.zip \
+          zip -r COM3D2插件中文翻译-${{ env.TAG_NAME }}.zip \
             COM3D2/ \
             README.md file2.json script.js \
             -x "folder2/exclude-this-file.txt"
