@@ -136,7 +136,7 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 ### 如何与 XUnity.AutoTranslator 插件共存？
 注意不要用 `turtle_formatter.exe` 处理，否则会被删掉。
 
-在 `AutoTranslatorConfig.ini` 里面设置 `EnableIMGUI=false` 就好
+在 `COM3D2\BepinEx\config\AutoTranslatorConfig.ini` 里面设置 `EnableIMGUI=false` 就好
 
 <br>
 <br>
