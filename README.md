@@ -80,6 +80,8 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 ## 使用方法
 登陆后点击仓库右上角的 Watch 按钮可以在更新时获得邮件提醒。
 
+如果你真的不知道，Github 下载一般在仓库主页右边的 Releases 标签中，点进去 Releases 后，在 Assets 标签中有下载；如果要下载整个仓库，点击仓库主页绿色的 Code 按钮，然后点击 Download ZIP。
+
 0. 确保你已安装 BpeinEX 插件框架，如果你还没有请使用 [https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer) 来安装框架和基础插件。但是安装这个以后需要删掉自带的英文翻译。
 
 1. 安装 IMGUITranslationLoader
@@ -91,7 +93,7 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
     
      <img src="https://github.com/user-attachments/assets/5f91581c-30e8-4a6e-9fb7-7112fe33a9cf" width="50%" />
 
-3. 下载本仓库 Release 中的压缩包，或是下载源代码。
+3. 下载本仓库 Releases 中的压缩包，或是下载源代码。
 
     找到对应路径
     
