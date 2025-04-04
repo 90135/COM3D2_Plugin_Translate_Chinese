@@ -11,11 +11,13 @@ This project is the Chinese translation of the COM3D2 plugin (plugin localizatio
 IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 
 ```
-手动翻译，但本人非专业，看不懂的就结合机翻了。
+手动翻译，但本人非专业，看不懂的就结合机翻了（那时还没有 AI）。
 要看到的字才能 dump 下来翻译，所以可能并不是完全翻译。
 ```
 
 有没翻译或是想添加的插件，欢迎反馈或直接贡献翻译，本汉化最初发布于 ZODGAME。
+
+由于翻译方式的局限性，会有一些字无法汉化，或者是漏掉的。
 
 <br>
 <br>
@@ -48,6 +50,7 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
  - com3d2.lookatonemaiddance.plugin
  - com3d2.mancall
  - com3d2.mtaccutil.plugin
+ - com3d2.motiontimelineeditor.plugin
  - com3d2.multiplemaids.plugin
  - com3d2.nprshader.plugin
  - com3d2.partsedit.plugin
@@ -200,8 +203,11 @@ COM3D2 你应该无条件使用 BepinEX。
  - com3d2.scenecapture.plugin   
  - com3d2.multiplemaids.plugin    
  - com3d2.vibeyourmaid.plugin
+ - 主要是增加了一些场景、道具的机翻文本，MeidoPhotoStudio 则是以人工为主此外，SceneCapture 插件的场景是不能翻译的，否则会失效。
 
-主要是增加了一些场景、道具的机翻文本，MeidoPhotoStudio 则是以人工为主此外，SceneCapture 插件的场景是不能翻译的，否则会失效。
+znq19 贡献了新插件翻译：
+
+ - com3d2.motiontimelineeditor.plugin
 
 <br>
 <br>
