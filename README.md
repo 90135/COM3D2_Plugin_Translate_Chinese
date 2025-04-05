@@ -62,6 +62,7 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
  - com3d2.shaderchange.plugin
  - com3d2.shapeanimator.plugin
  - com3d2.shapeanimator_allsceneedition.plugin
+ - ~~com3d2.shapekeymaster.plugin~~ （翻译已提交至官方，可以在配置文件中启用，或使用 [ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) 默认快捷键 F1 修改设置）
  - com3d2.skaccutil.plugin
  - com3d2.slimeshader.plugin
  - com3d2.smoothanimutil.plugin
