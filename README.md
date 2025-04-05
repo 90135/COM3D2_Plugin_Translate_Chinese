@@ -6,7 +6,7 @@
 
 This project is the Chinese translation of the COM3D2 plugin (plugin localization).
 
-目前本项目使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件，以后可能会扩展。
+目前本项目目前使用 [IMGUITranslationLoader](https://github.com/ghorsington/IMGUITranslationLoader) 所以只能翻译使用 IMGUI 的插件，以后可能会扩展。
 
 IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 
@@ -181,36 +181,52 @@ COM3D2 你应该无条件使用 BepinEX。
 
 简单来说就是在插件设置 `IMGUITranslationLoader.ini` 内设置 `Dump=True`，然后启动游戏 打开想要翻译的插件，把没翻译的地方全部点一遍
 
-然后在 `COM3D2\IMGUITranslationLoader\IMGUITranslationDumps` 内就会有对应的 插件名.txt 文件，翻译后提交即可。
+然后在 `COM3D2\IMGUITranslationLoader\IMGUITranslationDumps` 内就会有对应的 `插件名.txt` 文件（游戏运行中无法打开 dump 内的文件是正常的）。
+
+把翻译后的文件放置到 `COM3D2\IMGUITranslationLoader\IMGUIStrings` 即可加载
 
 翻译格式为
 ```
-原文      译文
+原文			译文
 ```
-中间的是 tab 键（\t 制表符）不是空格
+中间的是 tab 键（\t 制表符）不是空格，可以有多个制表符，但至少有一个制表符。
+
+<br>
 
 支持正则表达式，详见原插件说明
-例如 dump 下来有很多变量
+
+例如 dump 下来的文件内有很多变量
 ```
 前髪：某某
 前髪：xxxx
+広さ: 1.256165
+広さ: 257
+VRカメラ: AAAA
+VRカメラ: BBBB
 ```
 那么正则表达式翻译要写为
 ```
-$前髪：(.+)			前发：$1
+$前髪：(.+)				前发：$1
+$広さ: (.+)				大小：$1
+$VRカメラ: (.+)		VR摄像机: $1
 ```
+这样就能翻译变量了
+
+翻译后进入游戏检查，一切正常就可以提交啦！
 
 贡献翻译请使用 Pull requests 如果不会用直接 Issues 附上文件提交也行
 
 ### 使用 AI 参与翻译
 
+如今 AI 技术发展，使用 AI 往往也能获得令人满意的效果，特别是一些人工无力翻译的超长文本。
+
 **使用 AI 翻译后请进行人工校对，否则不予合并**
 
-注意：使用脚本需要安装 Python3
+注意：使用脚本需要安装 [Python3](https://www.python.org/downloads/)
 
 在仓库的 script 文件夹中有一个 `script.py` 脚本，可以通过 `json2txt.bat` 和 `txt2json.bat` 来快捷使用
 
-首先使用 IMGUITranslationLoader 的 dump 功能获取 要翻译的文本.txt，然后手动或者用 `ai.py`，`ai2.py` 清理掉不需要翻译的文本
+首先使用 IMGUITranslationLoader 的 dump 功能获取 `要翻译的文本.txt`，然后手动或者用 `ai.py`，`ai2.py` 清理掉不需要翻译的文本
 
 然后把要转换的文本放置到 `script\inputs` 文件夹，运行 `txt2json.bat`，这会将 .txt 转换为 json 格式并输出到 `script\outputs` 文件夹
 
