@@ -18,7 +18,7 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 以前有很多上千行的技能、场景名无力翻译，如今有了 AI，这部分将由 AI 处理 + 人工大致校对
 ```
 
-有没翻译或者错翻译或是想添加的插件等，欢迎反馈或直接贡献翻译，使用 Issues 或 Discussions 或其他任何方式，贡献翻译请使用 Pull requests 如果不会用直接 Issues 提交也行。
+有没翻译或者错翻译或是想添加的插件等，欢迎反馈或直接贡献翻译，使用 Issues 或 Discussions 或其他任何方式，贡献翻译请使用 Pull requests 如果不会用直接 Issues 附上文件提交也行。
 
 由于翻译方式的局限性，会有一些字无法汉化，或者是漏掉的。
 
@@ -171,12 +171,54 @@ COM3D2 你应该无条件使用 BepinEX。
 <br>
 <br>
 
-## 我想汉化其他插件怎么办
-顾名思义，使用 IMGUI 制作的插件都可以翻译，读一读插件说明就会了，欢迎贡献到本仓库，发 PR，不会的话 发 Issue 附上文件也可以
+## 我也想参与汉化
+
+本项目目前使用 IMGUITranslationLoader 来进行翻译，因此请先阅读插件说明：
 
 [https://github.com/ghorsington/IMGUITranslationLoader/wiki](https://github.com/ghorsington/IMGUITranslationLoader/wiki)
 
 [https://github.com/ghorsington/IMGUITranslationLoader/blob/master/README.md](https://github.com/ghorsington/IMGUITranslationLoader/blob/master/README.md)
+
+简单来说就是在插件设置 `IMGUITranslationLoader.ini` 内设置 `Dump=True`，然后启动游戏 打开想要翻译的插件，把没翻译的地方全部点一遍
+
+然后在 `COM3D2\IMGUITranslationLoader\IMGUITranslationDumps` 内就会有对应的 插件名.txt 文件，翻译后提交即可。
+
+翻译格式为
+```
+原文      译文
+```
+中间的是 tab 键（\t 制表符）不是空格
+
+支持正则表达式，详见原插件说明
+例如 dump 下来有很多变量
+```
+前髪：某某
+前髪：xxxx
+```
+那么正则表达式翻译要写为
+```
+$前髪：(.+)			前发：$1
+```
+
+贡献翻译请使用 Pull requests 如果不会用直接 Issues 附上文件提交也行
+
+### 使用 AI 参与翻译
+
+**使用 AI 翻译后请进行人工校对，否则不予合并**
+
+注意：使用脚本需要安装 Python3
+
+在仓库的 script 文件夹中有一个 `script.py` 脚本，可以通过 `json2txt.bat` 和 `txt2json.bat` 来快捷使用
+
+首先使用 IMGUITranslationLoader 的 dump 功能获取 要翻译的文本.txt，然后手动或者用 `ai.py`，`ai2.py` 清理掉不需要翻译的文本
+
+然后把要转换的文本放置到 `script\inputs` 文件夹，运行 `txt2json.bat`，这会将 .txt 转换为 json 格式并输出到 `script\outputs` 文件夹
+
+输出的 JSON 格式恰好和 MTool 导出的格式一致，因此可以使用支持此格式的工具进行翻译，这里推荐使用 [AiNiee](https://github.com/NEKOparapa/AiNiee)，在 AiNiee 中将项目格式设置为 Mtool导出文件 然后进行翻译即可
+
+AiNiee 翻译完后把要转换的 json 放置到 `script\inputs` 文件夹，运行 `json2txt.bat`，这会将 .json 转换为 IMGUITranslationLoader 能读取的 txt 格式并输出到 `script\outputs` 文件夹
+
+然后进行人工校对，校对完后进行测试，正常就可以贡献翻译啦
 
 <br>
 <br>
@@ -205,11 +247,11 @@ COM3D2 你应该无条件使用 BepinEX。
 
 杂酱 zaj2001 及其群友（未告诉我，所以无法署名）补充并调整了一些插件：
 
- - meidophotostudio.plugin      
- - com3d2.scenecapture.plugin   
- - com3d2.multiplemaids.plugin    
+ - meidophotostudio.plugin
+ - com3d2.scenecapture.plugin
+ - com3d2.multiplemaids.plugin
  - com3d2.vibeyourmaid.plugin
- - 主要是增加了一些场景、道具的机翻文本，MeidoPhotoStudio 则是以人工为主此外，SceneCapture 插件的场景是不能翻译的，否则会失效。
+ - 主要是增加了一些场景、道具的机翻文本，MeidoPhotoStudio 则是以人工为主，此外需要注意 SceneCapture 插件的场景是不能翻译的，否则会失效。
 
 znq19 贡献了新插件翻译：
 
