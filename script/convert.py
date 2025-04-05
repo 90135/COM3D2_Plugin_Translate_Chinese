@@ -14,7 +14,7 @@ def txt_to_json(line, source_mode=False):
 
 def json_to_txt(key, value):
     """将键值对转换为文本行"""
-    return f"{key}\t{value}" if value else key
+    return f"{key}\t\t\t\t\t{value}" if value else key
 
 def process_file(input_path, output_path, mode, source_mode=False):
     """处理单个文件的转换"""
