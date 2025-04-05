@@ -228,11 +228,11 @@ $VRカメラ: (.+)		VR摄像机: $1
 
 首先使用 IMGUITranslationLoader 的 dump 功能获取 `要翻译的文本.txt`，然后手动或者用 `ai.py`，`ai2.py` 清理掉不需要翻译的文本
 
-然后把要转换的文本放置到 `script\inputs` 文件夹，运行 `txt2json.bat`，这会将 .txt 转换为 json 格式并输出到 `script\outputs` 文件夹
+然后把要转换的文本放置到 `.\inputs` 文件夹，运行 `txt2json.bat`，这会将 .txt 转换为 json 格式并输出到 `.\outputs` 文件夹
 
 输出的 JSON 格式恰好和 MTool 导出的格式一致，因此可以使用支持此格式的工具进行翻译，这里推荐使用 [AiNiee](https://github.com/NEKOparapa/AiNiee)，在 AiNiee 中将项目格式设置为 Mtool导出文件 然后进行翻译即可
 
-AiNiee 翻译完后把要转换的 json 放置到 `script\inputs` 文件夹，运行 `json2txt.bat`，这会将 .json 转换为 IMGUITranslationLoader 能读取的 txt 格式并输出到 `script\outputs` 文件夹
+AiNiee 翻译完后把要转换的 json 放置到 `.\inputs` 文件夹，运行 `json2txt.bat`，这会将 .json 转换为 IMGUITranslationLoader 能读取的 txt 格式并输出到 `.\outputs` 文件夹
 
 然后进行人工校对，校对完后进行测试，正常就可以贡献翻译啦
 
