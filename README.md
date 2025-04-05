@@ -185,6 +185,8 @@ COM3D2 你应该无条件使用 BepinEX。
 
 把翻译后的文件放置到 `COM3D2\IMGUITranslationLoader\IMGUIStrings` 即可加载
 
+注：翻译过的文本一般情况下是不会再次被 dump 的，因此翻译后可以删除 dump，再次进游戏检查是否有遗漏，有遗漏的部分就会被 dump 下来。
+
 翻译格式为
 ```
 原文			译文
