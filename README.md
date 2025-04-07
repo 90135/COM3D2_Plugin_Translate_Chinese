@@ -256,6 +256,8 @@ AiNiee 翻译完后把要转换的 json 放置到 `.\inputs` 文件夹，运行 
 
  - [COM3D2 简明 MOD 教程](https://github.com/90135/COM3D2_Simple_MOD_Guide_Chinese)
  - [COM3D2 MOD 编辑器](https://github.com/90135/COM3D2_MOD_EDITOR)
+ - [COM3D2 插件中文翻译](https://github.com/90135/COM3D2_Plugin_Translate_Chinese)
+ - [90135 的 COM3D2 中文指北](https://github.com/90135/COM3D2_GUIDE_CHINESE)
 
 <br>
 <br>
