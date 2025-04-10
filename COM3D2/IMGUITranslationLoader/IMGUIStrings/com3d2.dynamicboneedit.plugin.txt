@@ -1,90 +1,81 @@
 DynBoneEdit
- DynamicBone エディット			DynamicBone 编辑
 0.9.7
+ DynamicBone エディット			 DynamicBone 编辑
+DynamicBone エディット			DynamicBone 编辑
+ DynamicSkirtBone エディット		 DynamicSkirtBone 编辑
+DynamicSkirtBone エディット		DynamicSkirtBone 编辑
 プリセット管理					预设管理
 ボーンスロット					骨骼槽位
-メニュー							菜单
-None							无
-Normal							正常
-DynBone	
-DynSkrt
-phyファイル : 						phy文件:
-colファイル : 						col文件:
-pskファイル : 						psk文件:
-StaticOrCurve						静态或曲线
-Partial							部位
-FromBoneName					按骨骼名
+メニュー						菜单
+None						无
+Normal						正常
+DynBone						DynBone
+DynSkrt						DynSkrt
+phyファイル : 					phy文件:
+colファイル : 					col文件:
+pskファイル : 					psk文件:
+StaticOrCurve				静态或曲线
+Partial						按部位
+FromBoneName				按旧骨骼名
 コライダー:						碰撞器:
-削除								删除
-Export
-減衰率:damping					衰减率: damping
-減衰率:(.+)						衰减率: $1
-弾性力:elasticity					弹力: elasticity
-弾性力:(.+)						弹力: $1
-剛性:stiffness						刚性: stiffness
-剛性:(.+)							刚性: $1
-物理演算の無視率:inert				物理演算无视率: inert
-物理演算の無視率:(.+)				物理演算无视率: $1
+$コライダー:(.+)					碰撞器:$1
+Export						导出
+追加							增加
+削除							删除
+減衰率:damping				衰减率(damping)
+弾性力:elasticity			弹力(elasticity)
+剛性:stiffness				刚性(stiffness)
+物理演算の無視率:inert			物理计算无视率(inert)
+当たり判定の半径:radius			碰撞检测半径(radius)
+reset						重置
+yure
+no yure
+default						默认
+capsule						胶囊
+plane						平面
+mune						胸部
+Outside						Outside
+Inside						Inside
+Gizmo						控件
+2×Radius					2倍半径
+追加ボーン:endLength			增加骨头(endLength)
+オフセット:endOffset			offset(endOffset)
+重力:gravity					重力(gravity)
+力:force						外力(force)
+大きいほど元の位置にゆっくり戻る 		值越大返回到原来位置的速度就越慢
+大きいほど揺れへの抵抗が増す 		值越大抗摇动性越大
 大きいほど固くなる 				值越大越硬
 大きいほど物理演算を無視 			值越大越忽略物理计算
-当たり判定の半径:radius			碰撞检测半径: radius
-当たり判定の半径:	(.+)				碰撞检测半径: $1
-追加								增加
-追加ボーン:endLength				增加骨头: endLength
-追加ボーン:(.+)					碰撞检测半径: $1
-オフセット:endOffset				Offset:endOffset
-オフセット:(.+)					Offset: $1
-重力:gravity
-力:force
-大きいほど元の位置にゆっくり戻る 		值越大返回到原来位置的速度就越慢
-大きいほど揺れへの抵抗が増す 			值越大抗摇动性越大
-time:
-value:
-inTangent :
-半径:panierRadius
-パニエ力(基準値):panierForce					裙撑力(基准值): panierForce
-パニエ力(基準値):(.+)							裙撑力(基准值): $1
-パニエ力の補正閾値:panierForceDistThreshold		裙撑力的修正阈值: panierForceDistThreshold
-パニエ力の補正閾値:(.+)							裙撑力的修正阈值: $1
-衝突時の力:stressForce							碰撞时的力: stressForce
-衝突時の力:(.+)								碰撞时的力: $1
-スケーリングの最小値:minScale					最小缩放值: minScale
-スケーリングの最小値:(.+)						最小缩放值: $1
-イージング遷移時間:easeSpeed					缓动过渡时间: easeSpeed
-イージング遷移時間:(.+)							缓动过渡时间: $1
-惰性割合:velociyForceRate						惯性比例: velociyForceRate
-惰性割合:(.+)									惯性比例: $1
-計算回数:calcTime								计算次数: calcTime	
-計算回数:(.+)									计算次数: $1	
-繋がり力:aryHard								连接力: aryHard
-繋がり力:(.+)									连接力: $1
-横縮											横向收缩
-横伸											横向伸展
-縦縮											纵向收缩
-縦伸											纵向伸展
+time:						时间:
+value:						值:
+inTangent :					入切线:
+outTangent:					出切线:
+位置							位置
+回転							旋转
+スケール						缩放
+Center						中心
+Radius						半径
+Height						高
+Bound						约束边界
+Direction					方向
 
-ボーン:									骨骼：
-ボーン:(.+)								骨骼：$1
-
-phyファイル :								phy文件:  
-phyファイル :(.+) 							phy文件: $1 
-colファイル :								col文件: 
-colファイル :(.+) 							col文件: $1
-pskファイル :								psk文件: 
-pskファイル :(.+) 							psk文件: $1
-phyファイル:								phy文件:  
-phyファイル:(.+) 							phy文件: $1 
-colファイル:								col文件: 
-colファイル:(.+) 							col文件: $1
-pskファイル: 								psk文件: 
-pskファイル:(.+) 							psk文件: $1
+半径:panierRadius							半径(panierRadius)
+パニエ力(基準値):panierForce					裙撑力(基值)(panierForce)
+パニエ力の補正閾値:panierForceDistThreshold		裙撑力补正阈值(panierForceDistThreshold)
+衝突時の力:stressForce						碰撞力(stressForce)
+スケーリングの最小値:minScale						最小缩放(minScale)
+:stressDegreeMin							最小缩放角度(stressDegreeMin)
+:stressDegreeMax							最大缩放角度(stressDegreeMax)
+イージング遷移時間:easeSpeed						缓动过渡时间(easeSpeed)
+惰性割合:velociyForceRate						惯性比率(velociyForceRate)
+計算回数:calcTime								计算次数(calcTime)
+繋がり力:aryHard								连接力(aryHard)
+横縮							横缩
+横伸							横伸
+縦縮							纵缩
+縦伸							纵伸
 
 
-
-位置											位置
-回転											旋转
-スケール										缩放
-大きいほど物理演算を無視 						值越大越忽略物理计算
 
 
 
