@@ -157,17 +157,19 @@ IMGUI 就是插件的半透明黑色窗口，示例请查看下面的截图。
 ## 去哪里找插件
 
 ### CM3D2
-1. [https://github.com/krypto5863/Legacy-Meido-s-Modular-Toolbox](https://github.com/krypto5863/Legacy-Meido-s-Modular-Toolbox)
-2. [https://motimoti3d.jp/blog-entry-37.html](https://motimoti3d.jp/blog-entry-37.html)
+1. [https://motimoti3d.jp/blog-entry-37.html](https://motimoti3d.jp/blog-entry-37.html)
+2. [https://github.com/krypto5863/Legacy-Meido-s-Modular-Toolbox](https://github.com/krypto5863/Legacy-Meido-s-Modular-Toolbox)
 3. [https://github.com/search?q=CM3D2&type=repositories](https://github.com/search?q=CM3D2&type=repositories)
 4. [https://www.google.com](https://www.google.com)
-是的，CM3D2也可以用 BepinEX，但有一些兼容问题所以不推荐。
+
+是的，CM3D2也可以用 BepinEX，但有一些兼容问题所以不推荐使用。
 
 ### COM3D2
-1. [https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer)
-2. [https://motimoti3d.jp/blog-entry-590.html](https://motimoti3d.jp/blog-entry-590.html)
+1. [https://motimoti3d.jp/blog-entry-590.html](https://motimoti3d.jp/blog-entry-590.html)
+2. [https://github.com/krypto5863/COM-Modular-Installer](https://github.com/krypto5863/COM-Modular-Installer)
 3. [https://github.com/search?q=COM3D2&type=repositories](https://github.com/search?q=CMO3D2&type=repositories)
 4. [https://www.google.com](https://www.google.com)
+
 COM3D2 你应该无条件使用 BepinEX。
 
 <br>
